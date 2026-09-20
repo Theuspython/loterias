@@ -1,19 +1,5 @@
 [
   {
-    "id": "s24m-19722157",
-    "data": "2026-09-20",
-    "horario": "13:00",
-    "Partida": "Man City vs Sunderland",
-    "+0.5 HT %": "61%",
-    "+1.5 FT %": "68%",
-    "+2.5 FT %": "42%",
-    "Ambas Marcam %": "45%",
-    "xG total": "2.35",
-    "casa": "50%",
-    "fora": "23%",
-    "Empate": "27%"
-  },
-  {
     "id": "s24m-19722163",
     "data": "2026-09-20",
     "horario": "13:00",
@@ -26,6 +12,20 @@
     "casa": "49%",
     "fora": "30%",
     "Empate": "21%"
+  },
+  {
+    "id": "s24m-19722157",
+    "data": "2026-09-20",
+    "horario": "13:00",
+    "Partida": "Man City vs Sunderland",
+    "+0.5 HT %": "61%",
+    "+1.5 FT %": "68%",
+    "+2.5 FT %": "42%",
+    "Ambas Marcam %": "45%",
+    "xG total": "2.35",
+    "casa": "50%",
+    "fora": "23%",
+    "Empate": "27%"
   },
   {
     "id": "s24m-19722158",
@@ -59,7 +59,7 @@
     "id": "s24m-19732677",
     "data": "2026-09-20",
     "horario": "12:00",
-    "Partida": "Getafe vs Málaga",
+    "Partida": "Getafe vs Malaga",
     "+0.5 HT %": "68%",
     "+1.5 FT %": "72%",
     "+2.5 FT %": "47%",
@@ -126,20 +126,6 @@
     "Empate": "26%"
   },
   {
-    "id": "s24m-19715596",
-    "data": "2026-09-20",
-    "horario": "15:15",
-    "Partida": "Nice vs Lille",
-    "+0.5 HT %": "70%",
-    "+1.5 FT %": "76%",
-    "+2.5 FT %": "52%",
-    "Ambas Marcam %": "55%",
-    "xG total": "2.75",
-    "casa": "32%",
-    "fora": "43%",
-    "Empate": "25%"
-  },
-  {
     "id": "s24m-19715600",
     "data": "2026-09-20",
     "horario": "13:00",
@@ -154,10 +140,24 @@
     "Empate": "23%"
   },
   {
+    "id": "s24m-19715596",
+    "data": "2026-09-20",
+    "horario": "15:15",
+    "Partida": "Nice vs Lille",
+    "+0.5 HT %": "70%",
+    "+1.5 FT %": "76%",
+    "+2.5 FT %": "52%",
+    "Ambas Marcam %": "55%",
+    "xG total": "2.75",
+    "casa": "32%",
+    "fora": "43%",
+    "Empate": "25%"
+  },
+  {
     "id": "s24m-19715593",
     "data": "2026-09-20",
     "horario": "18:45",
-    "Partida": "Marseille vs PSG",
+    "Partida": "Marsilya vs PSG",
     "+0.5 HT %": "80%",
     "+1.5 FT %": "82%",
     "+2.5 FT %": "61%",
@@ -166,20 +166,6 @@
     "casa": "35%",
     "fora": "41%",
     "Empate": "24%"
-  },
-  {
-    "id": "s24m-19735168",
-    "data": "2026-09-20",
-    "horario": "13:30",
-    "Partida": "B. Leverkusen vs Leipzig",
-    "+0.5 HT %": "79%",
-    "+1.5 FT %": "87%",
-    "+2.5 FT %": "70%",
-    "Ambas Marcam %": "69%",
-    "xG total": "3.60",
-    "casa": "45%",
-    "fora": "33%",
-    "Empate": "22%"
   },
   {
     "id": "s24m-19735163",
@@ -193,6 +179,20 @@
     "xG total": "3.80",
     "casa": "37%",
     "fora": "41%",
+    "Empate": "22%"
+  },
+  {
+    "id": "s24m-19735168",
+    "data": "2026-09-20",
+    "horario": "13:30",
+    "Partida": "B. Leverkusen vs Leipzig",
+    "+0.5 HT %": "79%",
+    "+1.5 FT %": "87%",
+    "+2.5 FT %": "70%",
+    "Ambas Marcam %": "69%",
+    "xG total": "3.60",
+    "casa": "45%",
+    "fora": "33%",
     "Empate": "22%"
   },
   {
@@ -252,20 +252,6 @@
     "Empate": "25%"
   },
   {
-    "id": "s24m-19713574",
-    "data": "2026-09-20",
-    "horario": "16:00",
-    "Partida": "Juventus vs Atalanta",
-    "+0.5 HT %": "55%",
-    "+1.5 FT %": "68%",
-    "+2.5 FT %": "42%",
-    "Ambas Marcam %": "47%",
-    "xG total": "2.35",
-    "casa": "45%",
-    "fora": "28%",
-    "Empate": "27%"
-  },
-  {
     "id": "s24m-19713573",
     "data": "2026-09-20",
     "horario": "18:45",
@@ -278,6 +264,20 @@
     "casa": "38%",
     "fora": "36%",
     "Empate": "26%"
+  },
+  {
+    "id": "s24m-19713574",
+    "data": "2026-09-20",
+    "horario": "16:00",
+    "Partida": "Juventus vs Atalanta",
+    "+0.5 HT %": "55%",
+    "+1.5 FT %": "68%",
+    "+2.5 FT %": "42%",
+    "Ambas Marcam %": "47%",
+    "xG total": "2.35",
+    "casa": "45%",
+    "fora": "28%",
+    "Empate": "27%"
   },
   {
     "id": "s24m-19714641",
@@ -378,20 +378,6 @@
     "Empate": "28%"
   },
   {
-    "id": "s24m-19736798",
-    "data": "2026-09-20",
-    "horario": "19:30",
-    "Partida": "Porto vs Benfica",
-    "+0.5 HT %": "75%",
-    "+1.5 FT %": "81%",
-    "+2.5 FT %": "59%",
-    "Ambas Marcam %": "60%",
-    "xG total": "3.05",
-    "casa": "27%",
-    "fora": "50%",
-    "Empate": "23%"
-  },
-  {
     "id": "s24m-19736801",
     "data": "2026-09-20",
     "horario": "17:00",
@@ -404,6 +390,20 @@
     "casa": "45%",
     "fora": "28%",
     "Empate": "27%"
+  },
+  {
+    "id": "s24m-19736798",
+    "data": "2026-09-20",
+    "horario": "19:30",
+    "Partida": "Porto vs Benfica",
+    "+0.5 HT %": "75%",
+    "+1.5 FT %": "81%",
+    "+2.5 FT %": "59%",
+    "Ambas Marcam %": "60%",
+    "xG total": "3.05",
+    "casa": "27%",
+    "fora": "50%",
+    "Empate": "23%"
   },
   {
     "id": "s24m-19746601",
@@ -420,20 +420,6 @@
     "Empate": "26%"
   },
   {
-    "id": "s24m-19746605",
-    "data": "2026-09-20",
-    "horario": "17:00",
-    "Partida": "Göztepe vs Rizespor",
-    "+0.5 HT %": "70%",
-    "+1.5 FT %": "75%",
-    "+2.5 FT %": "51%",
-    "Ambas Marcam %": "55%",
-    "xG total": "2.70",
-    "casa": "35%",
-    "fora": "39%",
-    "Empate": "26%"
-  },
-  {
     "id": "s24m-19746603",
     "data": "2026-09-20",
     "horario": "14:00",
@@ -446,6 +432,20 @@
     "casa": "42%",
     "fora": "30%",
     "Empate": "28%"
+  },
+  {
+    "id": "s24m-19746605",
+    "data": "2026-09-20",
+    "horario": "17:00",
+    "Partida": "Göztepe vs Rizespor",
+    "+0.5 HT %": "70%",
+    "+1.5 FT %": "75%",
+    "+2.5 FT %": "51%",
+    "Ambas Marcam %": "55%",
+    "xG total": "2.70",
+    "casa": "35%",
+    "fora": "39%",
+    "Empate": "26%"
   },
   {
     "id": "s24m-19746606",
@@ -476,20 +476,6 @@
     "Empate": "20%"
   },
   {
-    "id": "s24m-19726052",
-    "data": "2026-09-20",
-    "horario": "14:00",
-    "Partida": "Sint-Truiden vs Westerlo",
-    "+0.5 HT %": "75%",
-    "+1.5 FT %": "87%",
-    "+2.5 FT %": "69%",
-    "Ambas Marcam %": "69%",
-    "xG total": "3.55",
-    "casa": "38%",
-    "fora": "40%",
-    "Empate": "22%"
-  },
-  {
     "id": "s24m-19726051",
     "data": "2026-09-20",
     "horario": "16:30",
@@ -504,6 +490,20 @@
     "Empate": "23%"
   },
   {
+    "id": "s24m-19726052",
+    "data": "2026-09-20",
+    "horario": "14:00",
+    "Partida": "Sint-Truiden vs Westerlo",
+    "+0.5 HT %": "75%",
+    "+1.5 FT %": "87%",
+    "+2.5 FT %": "69%",
+    "Ambas Marcam %": "69%",
+    "xG total": "3.55",
+    "casa": "38%",
+    "fora": "40%",
+    "Empate": "22%"
+  },
+  {
     "id": "s24m-19726050",
     "data": "2026-09-20",
     "horario": "17:15",
@@ -516,6 +516,20 @@
     "casa": "31%",
     "fora": "43%",
     "Empate": "26%"
+  },
+  {
+    "id": "s24m-19629564",
+    "data": "2026-09-20",
+    "horario": "12:30",
+    "Partida": "Vålerenga vs Fredrikstad",
+    "+0.5 HT %": "88%",
+    "+1.5 FT %": "92%",
+    "+2.5 FT %": "78%",
+    "Ambas Marcam %": "76%",
+    "xG total": "4.10",
+    "casa": "40%",
+    "fora": "40%",
+    "Empate": "20%"
   },
   {
     "id": "s24m-19729072",
@@ -544,20 +558,6 @@
     "casa": "42%",
     "fora": "34%",
     "Empate": "24%"
-  },
-  {
-    "id": "s24m-19629564",
-    "data": "2026-09-20",
-    "horario": "12:30",
-    "Partida": "Vålerenga vs Fredrikstad",
-    "+0.5 HT %": "88%",
-    "+1.5 FT %": "92%",
-    "+2.5 FT %": "78%",
-    "Ambas Marcam %": "76%",
-    "xG total": "4.10",
-    "casa": "40%",
-    "fora": "40%",
-    "Empate": "20%"
   },
   {
     "id": "s24m-19629565",
@@ -644,20 +644,6 @@
     "Empate": "22%"
   },
   {
-    "id": "s24m-19735452",
-    "data": "2026-09-20",
-    "horario": "11:30",
-    "Partida": "Arminia Bielefeld vs Heidenheim",
-    "+0.5 HT %": "88%",
-    "+1.5 FT %": "93%",
-    "+2.5 FT %": "80%",
-    "Ambas Marcam %": "77%",
-    "xG total": "4.25",
-    "casa": "50%",
-    "fora": "30%",
-    "Empate": "20%"
-  },
-  {
     "id": "s24m-19735457",
     "data": "2026-09-20",
     "horario": "11:30",
@@ -672,6 +658,20 @@
     "Empate": "22%"
   },
   {
+    "id": "s24m-19735452",
+    "data": "2026-09-20",
+    "horario": "11:30",
+    "Partida": "Arminia Bielefeld vs Heidenheim",
+    "+0.5 HT %": "88%",
+    "+1.5 FT %": "93%",
+    "+2.5 FT %": "80%",
+    "Ambas Marcam %": "77%",
+    "xG total": "4.25",
+    "casa": "50%",
+    "fora": "30%",
+    "Empate": "20%"
+  },
+  {
     "id": "s24m-19768874",
     "data": "2026-09-20",
     "horario": "13:00",
@@ -683,6 +683,20 @@
     "xG total": "3.40",
     "casa": "43%",
     "fora": "35%",
+    "Empate": "22%"
+  },
+  {
+    "id": "s24m-19768872",
+    "data": "2026-09-20",
+    "horario": "15:15",
+    "Partida": "Mantova vs Pisa",
+    "+0.5 HT %": "68%",
+    "+1.5 FT %": "86%",
+    "+2.5 FT %": "68%",
+    "Ambas Marcam %": "68%",
+    "xG total": "3.50",
+    "casa": "39%",
+    "fora": "39%",
     "Empate": "22%"
   },
   {
@@ -714,20 +728,6 @@
     "Empate": "30%"
   },
   {
-    "id": "s24m-19768872",
-    "data": "2026-09-20",
-    "horario": "15:15",
-    "Partida": "Mantova vs Pisa",
-    "+0.5 HT %": "68%",
-    "+1.5 FT %": "86%",
-    "+2.5 FT %": "68%",
-    "Ambas Marcam %": "68%",
-    "xG total": "3.50",
-    "casa": "39%",
-    "fora": "39%",
-    "Empate": "22%"
-  },
-  {
     "id": "s24m-19719084",
     "data": "2026-09-20",
     "horario": "08:00",
@@ -740,20 +740,6 @@
     "casa": "25%",
     "fora": "51%",
     "Empate": "24%"
-  },
-  {
-    "id": "s24m-19745067",
-    "data": "2026-09-20",
-    "horario": "12:00",
-    "Partida": "Sabadell vs Real Oviedo",
-    "+0.5 HT %": "63%",
-    "+1.5 FT %": "55%",
-    "+2.5 FT %": "28%",
-    "Ambas Marcam %": "36%",
-    "xG total": "1.85",
-    "casa": "27%",
-    "fora": "41%",
-    "Empate": "32%"
   },
   {
     "id": "s24m-19719088",
@@ -770,6 +756,20 @@
     "Empate": "22%"
   },
   {
+    "id": "s24m-19745067",
+    "data": "2026-09-20",
+    "horario": "12:00",
+    "Partida": "Sabadell vs Real Oviedo",
+    "+0.5 HT %": "63%",
+    "+1.5 FT %": "55%",
+    "+2.5 FT %": "28%",
+    "Ambas Marcam %": "36%",
+    "xG total": "1.85",
+    "casa": "27%",
+    "fora": "41%",
+    "Empate": "32%"
+  },
+  {
     "id": "s24m-19745072",
     "data": "2026-09-20",
     "horario": "14:15",
@@ -782,20 +782,6 @@
     "casa": "21%",
     "fora": "55%",
     "Empate": "24%"
-  },
-  {
-    "id": "s24m-19745069",
-    "data": "2026-09-20",
-    "horario": "16:30",
-    "Partida": "Las Palmas vs Burgos",
-    "+0.5 HT %": "71%",
-    "+1.5 FT %": "70%",
-    "+2.5 FT %": "44%",
-    "Ambas Marcam %": "50%",
-    "xG total": "2.45",
-    "casa": "33%",
-    "fora": "40%",
-    "Empate": "27%"
   },
   {
     "id": "s24m-19745076",
@@ -812,6 +798,20 @@
     "Empate": "26%"
   },
   {
+    "id": "s24m-19745069",
+    "data": "2026-09-20",
+    "horario": "16:30",
+    "Partida": "Las Palmas vs Burgos",
+    "+0.5 HT %": "71%",
+    "+1.5 FT %": "70%",
+    "+2.5 FT %": "44%",
+    "Ambas Marcam %": "50%",
+    "xG total": "2.45",
+    "casa": "33%",
+    "fora": "40%",
+    "Empate": "27%"
+  },
+  {
     "id": "s24m-19745070",
     "data": "2026-09-20",
     "horario": "19:00",
@@ -824,6 +824,20 @@
     "casa": "32%",
     "fora": "37%",
     "Empate": "31%"
+  },
+  {
+    "id": "s24m-19635872",
+    "data": "2026-09-20",
+    "horario": "12:00",
+    "Partida": "Halmstad vs AIK",
+    "+0.5 HT %": "68%",
+    "+1.5 FT %": "72%",
+    "+2.5 FT %": "47%",
+    "Ambas Marcam %": "50%",
+    "xG total": "2.55",
+    "casa": "24%",
+    "fora": "50%",
+    "Empate": "26%"
   },
   {
     "id": "s24m-19635873",
@@ -882,62 +896,6 @@
     "Empate": "22%"
   },
   {
-    "id": "s24m-19609810",
-    "data": "2026-09-19",
-    "horario": "23:30",
-    "Partida": "SJ Earthquakes vs Los Angeles FC",
-    "+0.5 HT %": "75%",
-    "+1.5 FT %": "71%",
-    "+2.5 FT %": "46%",
-    "Ambas Marcam %": "49%",
-    "xG total": "2.50",
-    "casa": "25%",
-    "fora": "49%",
-    "Empate": "26%"
-  },
-  {
-    "id": "s24m-19609811",
-    "data": "2026-09-19",
-    "horario": "23:30",
-    "Partida": "CF Montréal vs Columbus Crew",
-    "+0.5 HT %": "81%",
-    "+1.5 FT %": "82%",
-    "+2.5 FT %": "60%",
-    "Ambas Marcam %": "62%",
-    "xG total": "3.10",
-    "casa": "36%",
-    "fora": "40%",
-    "Empate": "24%"
-  },
-  {
-    "id": "s24m-19609812",
-    "data": "2026-09-19",
-    "horario": "23:30",
-    "Partida": "New England vs Orlando City",
-    "+0.5 HT %": "78%",
-    "+1.5 FT %": "84%",
-    "+2.5 FT %": "63%",
-    "Ambas Marcam %": "64%",
-    "xG total": "3.25",
-    "casa": "42%",
-    "fora": "35%",
-    "Empate": "23%"
-  },
-  {
-    "id": "s24m-19609813",
-    "data": "2026-09-19",
-    "horario": "23:30",
-    "Partida": "DC United vs Charlotte",
-    "+0.5 HT %": "70%",
-    "+1.5 FT %": "80%",
-    "+2.5 FT %": "58%",
-    "Ambas Marcam %": "58%",
-    "xG total": "3.00",
-    "casa": "24%",
-    "fora": "54%",
-    "Empate": "22%"
-  },
-  {
     "id": "s24m-19609814",
     "data": "2026-09-20",
     "horario": "00:30",
@@ -950,20 +908,6 @@
     "casa": "45%",
     "fora": "32%",
     "Empate": "23%"
-  },
-  {
-    "id": "s24m-19609815",
-    "data": "2026-09-20",
-    "horario": "00:30",
-    "Partida": "Houston Dynamo vs Cincinnati",
-    "+0.5 HT %": "71%",
-    "+1.5 FT %": "74%",
-    "+2.5 FT %": "49%",
-    "Ambas Marcam %": "52%",
-    "xG total": "2.65",
-    "casa": "50%",
-    "fora": "25%",
-    "Empate": "25%"
   },
   {
     "id": "s24m-19609816",
@@ -980,6 +924,20 @@
     "Empate": "19%"
   },
   {
+    "id": "s24m-19609815",
+    "data": "2026-09-20",
+    "horario": "00:30",
+    "Partida": "Houston Dynamo vs Cincinnati",
+    "+0.5 HT %": "71%",
+    "+1.5 FT %": "74%",
+    "+2.5 FT %": "49%",
+    "Ambas Marcam %": "52%",
+    "xG total": "2.65",
+    "casa": "50%",
+    "fora": "25%",
+    "Empate": "25%"
+  },
+  {
     "id": "s24m-19609817",
     "data": "2026-09-20",
     "horario": "00:30",
@@ -994,32 +952,18 @@
     "Empate": "23%"
   },
   {
-    "id": "s24m-19635872",
-    "data": "2026-09-20",
-    "horario": "12:00",
-    "Partida": "Halmstad vs AIK",
-    "+0.5 HT %": "68%",
-    "+1.5 FT %": "72%",
-    "+2.5 FT %": "47%",
-    "Ambas Marcam %": "50%",
-    "xG total": "2.55",
-    "casa": "24%",
-    "fora": "50%",
-    "Empate": "26%"
-  },
-  {
     "id": "s24m-19609818",
     "data": "2026-09-20",
     "horario": "00:30",
     "Partida": "St. Louis vs Toronto",
-    "+0.5 HT %": "80%",
-    "+1.5 FT %": "85%",
-    "+2.5 FT %": "66%",
-    "Ambas Marcam %": "65%",
-    "xG total": "3.40",
-    "casa": "51%",
-    "fora": "27%",
-    "Empate": "22%"
+    "+0.5 HT %": "82%",
+    "+1.5 FT %": "89%",
+    "+2.5 FT %": "72%",
+    "Ambas Marcam %": "69%",
+    "xG total": "3.75",
+    "casa": "55%",
+    "fora": "25%",
+    "Empate": "20%"
   },
   {
     "id": "s24m-19609819",
@@ -1090,20 +1034,6 @@
     "casa": "44%",
     "fora": "34%",
     "Empate": "22%"
-  },
-  {
-    "id": "s24m-19621808",
-    "data": "2026-09-19",
-    "horario": "23:30",
-    "Partida": "Vasco da Gama vs Coritiba",
-    "+0.5 HT %": "53%",
-    "+1.5 FT %": "77%",
-    "+2.5 FT %": "53%",
-    "Ambas Marcam %": "56%",
-    "xG total": "2.80",
-    "casa": "47%",
-    "fora": "29%",
-    "Empate": "24%"
   },
   {
     "id": "s24m-19621807",
@@ -1232,20 +1162,6 @@
     "Empate": "23%"
   },
   {
-    "id": "s24m-19648054",
-    "data": "2026-09-20",
-    "horario": "10:00",
-    "Partida": "Incheon United vs Daejeon Citizen",
-    "+0.5 HT %": "59%",
-    "+1.5 FT %": "82%",
-    "+2.5 FT %": "61%",
-    "Ambas Marcam %": "61%",
-    "xG total": "3.15",
-    "casa": "27%",
-    "fora": "50%",
-    "Empate": "23%"
-  },
-  {
     "id": "s24m-19667157",
     "data": "2026-09-20",
     "horario": "14:00",
@@ -1258,6 +1174,20 @@
     "casa": "10%",
     "fora": "71%",
     "Empate": "19%"
+  },
+  {
+    "id": "s24m-19648054",
+    "data": "2026-09-20",
+    "horario": "10:00",
+    "Partida": "Incheon United vs Daejeon Citizen",
+    "+0.5 HT %": "59%",
+    "+1.5 FT %": "82%",
+    "+2.5 FT %": "61%",
+    "Ambas Marcam %": "61%",
+    "xG total": "3.15",
+    "casa": "27%",
+    "fora": "50%",
+    "Empate": "23%"
   },
   {
     "id": "s24m-19667152",
@@ -1274,20 +1204,6 @@
     "Empate": "31%"
   },
   {
-    "id": "s24m-19667154",
-    "data": "2026-09-20",
-    "horario": "21:30",
-    "Partida": "Londrina vs Fortaleza",
-    "+0.5 HT %": "75%",
-    "+1.5 FT %": "68%",
-    "+2.5 FT %": "42%",
-    "Ambas Marcam %": "48%",
-    "xG total": "2.35",
-    "casa": "32%",
-    "fora": "40%",
-    "Empate": "28%"
-  },
-  {
     "id": "s24m-19722782",
     "data": "2026-09-20",
     "horario": "11:00",
@@ -1302,18 +1218,32 @@
     "Empate": "25%"
   },
   {
+    "id": "s24m-19667154",
+    "data": "2026-09-20",
+    "horario": "21:30",
+    "Partida": "Londrina vs Fortaleza",
+    "+0.5 HT %": "75%",
+    "+1.5 FT %": "68%",
+    "+2.5 FT %": "42%",
+    "Ambas Marcam %": "48%",
+    "xG total": "2.35",
+    "casa": "32%",
+    "fora": "40%",
+    "Empate": "28%"
+  },
+  {
     "id": "s24m-19636625",
     "data": "2026-09-20",
     "horario": "00:15",
     "Partida": "Instituto vs Talleres Córdoba",
-    "+0.5 HT %": "48%",
-    "+1.5 FT %": "66%",
-    "+2.5 FT %": "39%",
-    "Ambas Marcam %": "43%",
-    "xG total": "2.25",
-    "casa": "50%",
-    "fora": "23%",
-    "Empate": "27%"
+    "+0.5 HT %": "42%",
+    "+1.5 FT %": "70%",
+    "+2.5 FT %": "44%",
+    "Ambas Marcam %": "47%",
+    "xG total": "2.45",
+    "casa": "53%",
+    "fora": "22%",
+    "Empate": "25%"
   },
   {
     "id": "s24m-19636627",
@@ -1330,20 +1260,6 @@
     "Empate": "30%"
   },
   {
-    "id": "s24m-19636631",
-    "data": "2026-09-20",
-    "horario": "20:00",
-    "Partida": "Platense vs Newell's Old Boys",
-    "+0.5 HT %": "55%",
-    "+1.5 FT %": "59%",
-    "+2.5 FT %": "32%",
-    "Ambas Marcam %": "40%",
-    "xG total": "2.00",
-    "casa": "29%",
-    "fora": "40%",
-    "Empate": "31%"
-  },
-  {
     "id": "s24m-19636624",
     "data": "2026-09-20",
     "horario": "20:00",
@@ -1358,18 +1274,18 @@
     "Empate": "32%"
   },
   {
-    "id": "s24m-19636618",
+    "id": "s24m-19636631",
     "data": "2026-09-20",
-    "horario": "22:15",
-    "Partida": "Belgrano vs Estudiantes de Río Cuarto",
-    "+0.5 HT %": "42%",
-    "+1.5 FT %": "49%",
-    "+2.5 FT %": "23%",
-    "Ambas Marcam %": "28%",
-    "xG total": "1.65",
-    "casa": "49%",
-    "fora": "18%",
-    "Empate": "33%"
+    "horario": "20:00",
+    "Partida": "Platense vs Newell's Old Boys",
+    "+0.5 HT %": "55%",
+    "+1.5 FT %": "59%",
+    "+2.5 FT %": "32%",
+    "Ambas Marcam %": "40%",
+    "xG total": "2.00",
+    "casa": "29%",
+    "fora": "40%",
+    "Empate": "31%"
   },
   {
     "id": "s24m-19729259",
@@ -1386,6 +1302,20 @@
     "Empate": "22%"
   },
   {
+    "id": "s24m-19636618",
+    "data": "2026-09-20",
+    "horario": "22:15",
+    "Partida": "Belgrano vs Estudiantes de Río Cuarto",
+    "+0.5 HT %": "42%",
+    "+1.5 FT %": "49%",
+    "+2.5 FT %": "23%",
+    "Ambas Marcam %": "28%",
+    "xG total": "1.65",
+    "casa": "49%",
+    "fora": "18%",
+    "Empate": "33%"
+  },
+  {
     "id": "s24m-19729260",
     "data": "2026-09-20",
     "horario": "12:30",
@@ -1400,24 +1330,10 @@
     "Empate": "22%"
   },
   {
-    "id": "s24m-19729262",
-    "data": "2026-09-20",
-    "horario": "15:00",
-    "Partida": "Salzburg vs Sturm Graz",
-    "+0.5 HT %": "70%",
-    "+1.5 FT %": "75%",
-    "+2.5 FT %": "51%",
-    "Ambas Marcam %": "51%",
-    "xG total": "2.70",
-    "casa": "56%",
-    "fora": "20%",
-    "Empate": "24%"
-  },
-  {
     "id": "s24m-19720613",
     "data": "2026-09-20",
     "horario": "12:00",
-    "Partida": "Yverdon Sport vs Stade Lausanne-Ouchy",
+    "Partida": "Yverdon Sport vs Stade Ouchy",
     "+0.5 HT %": "79%",
     "+1.5 FT %": "82%",
     "+2.5 FT %": "61%",
@@ -1442,6 +1358,20 @@
     "Empate": "19%"
   },
   {
+    "id": "s24m-19729262",
+    "data": "2026-09-20",
+    "horario": "15:00",
+    "Partida": "Salzburg vs Sturm Graz",
+    "+0.5 HT %": "70%",
+    "+1.5 FT %": "75%",
+    "+2.5 FT %": "51%",
+    "Ambas Marcam %": "51%",
+    "xG total": "2.70",
+    "casa": "56%",
+    "fora": "20%",
+    "Empate": "24%"
+  },
+  {
     "id": "s24m-19719983",
     "data": "2026-09-20",
     "horario": "14:30",
@@ -1454,6 +1384,20 @@
     "casa": "17%",
     "fora": "64%",
     "Empate": "19%"
+  },
+  {
+    "id": "s24m-19748657",
+    "data": "2026-09-20",
+    "horario": "14:00",
+    "Partida": "Manisa FK vs İstanbulspor",
+    "+0.5 HT %": "88%",
+    "+1.5 FT %": "87%",
+    "+2.5 FT %": "70%",
+    "Ambas Marcam %": "68%",
+    "xG total": "3.60",
+    "casa": "51%",
+    "fora": "27%",
+    "Empate": "22%"
   },
   {
     "id": "s24m-19719984",
@@ -1470,18 +1414,18 @@
     "Empate": "20%"
   },
   {
-    "id": "s24m-19748657",
+    "id": "s24m-19748662",
     "data": "2026-09-20",
     "horario": "14:00",
-    "Partida": "Manisa FK vs İstanbulspor",
-    "+0.5 HT %": "88%",
-    "+1.5 FT %": "87%",
-    "+2.5 FT %": "70%",
-    "Ambas Marcam %": "68%",
-    "xG total": "3.60",
-    "casa": "51%",
-    "fora": "27%",
-    "Empate": "22%"
+    "Partida": "Pendikspor vs Bodrum FK",
+    "+0.5 HT %": "59%",
+    "+1.5 FT %": "63%",
+    "+2.5 FT %": "36%",
+    "Ambas Marcam %": "43%",
+    "xG total": "2.15",
+    "casa": "29%",
+    "fora": "42%",
+    "Empate": "29%"
   },
   {
     "id": "s24m-19748655",
@@ -1512,60 +1456,18 @@
     "Empate": "23%"
   },
   {
-    "id": "s24m-19748662",
-    "data": "2026-09-20",
-    "horario": "14:00",
-    "Partida": "Pendikspor vs Bodrum FK",
-    "+0.5 HT %": "59%",
-    "+1.5 FT %": "63%",
-    "+2.5 FT %": "36%",
-    "Ambas Marcam %": "43%",
-    "xG total": "2.15",
-    "casa": "29%",
-    "fora": "42%",
-    "Empate": "29%"
-  },
-  {
-    "id": "s24m-19622155",
-    "data": "2026-09-19",
-    "horario": "23:30",
-    "Partida": "Tampa Bay Rowdies vs Birmingham Legion",
-    "+0.5 HT %": "79%",
-    "+1.5 FT %": "86%",
-    "+2.5 FT %": "67%",
-    "Ambas Marcam %": "67%",
-    "xG total": "3.45",
-    "casa": "46%",
-    "fora": "32%",
-    "Empate": "22%"
-  },
-  {
     "id": "s24m-19622162",
     "data": "2026-09-20",
     "horario": "01:00",
     "Partida": "Colorado Springs vs New Mexico United",
-    "+0.5 HT %": "67%",
-    "+1.5 FT %": "84%",
-    "+2.5 FT %": "64%",
-    "Ambas Marcam %": "64%",
-    "xG total": "3.30",
-    "casa": "27%",
-    "fora": "51%",
-    "Empate": "22%"
-  },
-  {
-    "id": "s24m-19622156",
-    "data": "2026-09-19",
-    "horario": "23:30",
-    "Partida": "Rhode Island vs Miami FC II",
-    "+0.5 HT %": "67%",
-    "+1.5 FT %": "72%",
-    "+2.5 FT %": "47%",
-    "Ambas Marcam %": "51%",
-    "xG total": "2.55",
-    "casa": "48%",
-    "fora": "27%",
-    "Empate": "25%"
+    "+0.5 HT %": "63%",
+    "+1.5 FT %": "80%",
+    "+2.5 FT %": "58%",
+    "Ambas Marcam %": "59%",
+    "xG total": "3.00",
+    "casa": "29%",
+    "fora": "47%",
+    "Empate": "24%"
   },
   {
     "id": "s24m-19622157",
@@ -1624,20 +1526,6 @@
     "Empate": "29%"
   },
   {
-    "id": "s24m-19631129",
-    "data": "2026-09-20",
-    "horario": "15:00",
-    "Partida": "Stabæk vs Sogndal",
-    "+0.5 HT %": "82%",
-    "+1.5 FT %": "90%",
-    "+2.5 FT %": "74%",
-    "Ambas Marcam %": "73%",
-    "xG total": "3.85",
-    "casa": "46%",
-    "fora": "33%",
-    "Empate": "21%"
-  },
-  {
     "id": "s24m-19715948",
     "data": "2026-09-20",
     "horario": "14:45",
@@ -1664,6 +1552,20 @@
     "casa": "36%",
     "fora": "42%",
     "Empate": "22%"
+  },
+  {
+    "id": "s24m-19631129",
+    "data": "2026-09-20",
+    "horario": "15:00",
+    "Partida": "Stabæk vs Sogndal",
+    "+0.5 HT %": "82%",
+    "+1.5 FT %": "90%",
+    "+2.5 FT %": "74%",
+    "Ambas Marcam %": "73%",
+    "xG total": "3.85",
+    "casa": "46%",
+    "fora": "33%",
+    "Empate": "21%"
   },
   {
     "id": "s24m-19631131",
@@ -1764,20 +1666,6 @@
     "Empate": "26%"
   },
   {
-    "id": "s24m-19763867",
-    "data": "2026-09-20",
-    "horario": "14:00",
-    "Partida": "Levadiakos vs Olympiacos",
-    "+0.5 HT %": "59%",
-    "+1.5 FT %": "75%",
-    "+2.5 FT %": "51%",
-    "Ambas Marcam %": "54%",
-    "xG total": "2.70",
-    "casa": "30%",
-    "fora": "44%",
-    "Empate": "26%"
-  },
-  {
     "id": "s24m-19763869",
     "data": "2026-09-20",
     "horario": "15:00",
@@ -1790,6 +1678,20 @@
     "casa": "14%",
     "fora": "69%",
     "Empate": "17%"
+  },
+  {
+    "id": "s24m-19763867",
+    "data": "2026-09-20",
+    "horario": "14:00",
+    "Partida": "Levadiakos vs Olympiacos",
+    "+0.5 HT %": "59%",
+    "+1.5 FT %": "75%",
+    "+2.5 FT %": "51%",
+    "Ambas Marcam %": "54%",
+    "xG total": "2.70",
+    "casa": "30%",
+    "fora": "44%",
+    "Empate": "26%"
   },
   {
     "id": "s24m-19763866",
@@ -1820,20 +1722,6 @@
     "Empate": "24%"
   },
   {
-    "id": "s24m-19763865",
-    "data": "2026-09-20",
-    "horario": "18:00",
-    "Partida": "Panaitolikos vs PAOK",
-    "+0.5 HT %": "67%",
-    "+1.5 FT %": "77%",
-    "+2.5 FT %": "53%",
-    "Ambas Marcam %": "57%",
-    "xG total": "2.80",
-    "casa": "33%",
-    "fora": "42%",
-    "Empate": "25%"
-  },
-  {
     "id": "s24m-19670086",
     "data": "2026-09-20",
     "horario": "11:00",
@@ -1846,6 +1734,20 @@
     "casa": "23%",
     "fora": "54%",
     "Empate": "23%"
+  },
+  {
+    "id": "s24m-19763865",
+    "data": "2026-09-20",
+    "horario": "18:00",
+    "Partida": "Panaitolikos vs PAOK",
+    "+0.5 HT %": "67%",
+    "+1.5 FT %": "77%",
+    "+2.5 FT %": "53%",
+    "Ambas Marcam %": "57%",
+    "xG total": "2.80",
+    "casa": "33%",
+    "fora": "42%",
+    "Empate": "25%"
   },
   {
     "id": "s24m-19670085",
@@ -1974,20 +1876,6 @@
     "Empate": "23%"
   },
   {
-    "id": "s24m-19741175",
-    "data": "2026-09-20",
-    "horario": "20:30",
-    "Partida": "ADC Juan Pablo II vs UCV Moquegua",
-    "+0.5 HT %": "71%",
-    "+1.5 FT %": "71%",
-    "+2.5 FT %": "46%",
-    "Ambas Marcam %": "48%",
-    "xG total": "2.50",
-    "casa": "51%",
-    "fora": "23%",
-    "Empate": "26%"
-  },
-  {
     "id": "s24m-19789703",
     "data": "2026-09-20",
     "horario": "09:00",
@@ -2000,6 +1888,20 @@
     "casa": "46%",
     "fora": "31%",
     "Empate": "23%"
+  },
+  {
+    "id": "s24m-19741175",
+    "data": "2026-09-20",
+    "horario": "20:30",
+    "Partida": "ADC Juan Pablo II vs UCV Moquegua",
+    "+0.5 HT %": "71%",
+    "+1.5 FT %": "71%",
+    "+2.5 FT %": "46%",
+    "Ambas Marcam %": "48%",
+    "xG total": "2.50",
+    "casa": "51%",
+    "fora": "23%",
+    "Empate": "26%"
   },
   {
     "id": "s24m-19789736",
@@ -2156,20 +2058,6 @@
     "Empate": "22%"
   },
   {
-    "id": "s24m-19670425",
-    "data": "2026-09-20",
-    "horario": "18:00",
-    "Partida": "Columbus Crew II vs Carolina Core",
-    "+0.5 HT %": "81%",
-    "+1.5 FT %": "89%",
-    "+2.5 FT %": "72%",
-    "Ambas Marcam %": "71%",
-    "xG total": "3.75",
-    "casa": "46%",
-    "fora": "33%",
-    "Empate": "21%"
-  },
-  {
     "id": "s24m-19670424",
     "data": "2026-09-20",
     "horario": "18:00",
@@ -2181,6 +2069,20 @@
     "xG total": "3.80",
     "casa": "49%",
     "fora": "30%",
+    "Empate": "21%"
+  },
+  {
+    "id": "s24m-19670425",
+    "data": "2026-09-20",
+    "horario": "18:00",
+    "Partida": "Columbus Crew II vs Carolina Core",
+    "+0.5 HT %": "81%",
+    "+1.5 FT %": "89%",
+    "+2.5 FT %": "72%",
+    "Ambas Marcam %": "71%",
+    "xG total": "3.75",
+    "casa": "46%",
+    "fora": "33%",
     "Empate": "21%"
   },
   {
@@ -2240,20 +2142,6 @@
     "Empate": "28%"
   },
   {
-    "id": "s24m-19670416",
-    "data": "2026-09-20",
-    "horario": "21:00",
-    "Partida": "Real Monarchs vs Ventura County",
-    "+0.5 HT %": "73%",
-    "+1.5 FT %": "86%",
-    "+2.5 FT %": "68%",
-    "Ambas Marcam %": "57%",
-    "xG total": "3.50",
-    "casa": "12%",
-    "fora": "72%",
-    "Empate": "16%"
-  },
-  {
     "id": "s24m-19670415",
     "data": "2026-09-20",
     "horario": "21:00",
@@ -2266,6 +2154,20 @@
     "casa": "32%",
     "fora": "43%",
     "Empate": "25%"
+  },
+  {
+    "id": "s24m-19670416",
+    "data": "2026-09-20",
+    "horario": "21:00",
+    "Partida": "Real Monarchs vs Ventura County",
+    "+0.5 HT %": "73%",
+    "+1.5 FT %": "86%",
+    "+2.5 FT %": "68%",
+    "Ambas Marcam %": "57%",
+    "xG total": "3.50",
+    "casa": "12%",
+    "fora": "72%",
+    "Empate": "16%"
   },
   {
     "id": "s24m-19670418",
@@ -2282,20 +2184,6 @@
     "Empate": "21%"
   },
   {
-    "id": "s24m-19670419",
-    "data": "2026-09-20",
-    "horario": "21:00",
-    "Partida": "Colorado Rapids II vs North Texas",
-    "+0.5 HT %": "67%",
-    "+1.5 FT %": "79%",
-    "+2.5 FT %": "57%",
-    "Ambas Marcam %": "59%",
-    "xG total": "2.95",
-    "casa": "37%",
-    "fora": "39%",
-    "Empate": "24%"
-  },
-  {
     "id": "s24m-19670656",
     "data": "2026-09-20",
     "horario": "21:00",
@@ -2307,6 +2195,20 @@
     "xG total": "3.20",
     "casa": "38%",
     "fora": "38%",
+    "Empate": "24%"
+  },
+  {
+    "id": "s24m-19670419",
+    "data": "2026-09-20",
+    "horario": "21:00",
+    "Partida": "Colorado Rapids II vs North Texas",
+    "+0.5 HT %": "67%",
+    "+1.5 FT %": "79%",
+    "+2.5 FT %": "57%",
+    "Ambas Marcam %": "59%",
+    "xG total": "2.95",
+    "casa": "37%",
+    "fora": "39%",
     "Empate": "24%"
   },
   {
@@ -2352,20 +2254,6 @@
     "Empate": "20%"
   },
   {
-    "id": "s24m-19713925",
-    "data": "2026-09-20",
-    "horario": "12:00",
-    "Partida": "Sønderjyske Fodbold vs Randers FC",
-    "+0.5 HT %": "74%",
-    "+1.5 FT %": "80%",
-    "+2.5 FT %": "58%",
-    "Ambas Marcam %": "57%",
-    "xG total": "3.00",
-    "casa": "22%",
-    "fora": "56%",
-    "Empate": "22%"
-  },
-  {
     "id": "s24m-19713917",
     "data": "2026-09-20",
     "horario": "14:00",
@@ -2380,6 +2268,20 @@
     "Empate": "20%"
   },
   {
+    "id": "s24m-19713925",
+    "data": "2026-09-20",
+    "horario": "12:00",
+    "Partida": "Sønderjyske Fodbold vs Randers FC",
+    "+0.5 HT %": "74%",
+    "+1.5 FT %": "80%",
+    "+2.5 FT %": "58%",
+    "Ambas Marcam %": "57%",
+    "xG total": "3.00",
+    "casa": "22%",
+    "fora": "56%",
+    "Empate": "22%"
+  },
+  {
     "id": "s24m-19713919",
     "data": "2026-09-20",
     "horario": "16:00",
@@ -2392,20 +2294,6 @@
     "casa": "24%",
     "fora": "51%",
     "Empate": "25%"
-  },
-  {
-    "id": "s24m-19784582",
-    "data": "2026-09-20",
-    "horario": "13:00",
-    "Partida": "West Ham W vs Everton W",
-    "+0.5 HT %": "65%",
-    "+1.5 FT %": "71%",
-    "+2.5 FT %": "46%",
-    "Ambas Marcam %": "51%",
-    "xG total": "2.50",
-    "casa": "32%",
-    "fora": "41%",
-    "Empate": "27%"
   },
   {
     "id": "s24m-19784584",
@@ -2436,6 +2324,20 @@
     "Empate": "23%"
   },
   {
+    "id": "s24m-19784582",
+    "data": "2026-09-20",
+    "horario": "13:00",
+    "Partida": "West Ham W vs Everton W",
+    "+0.5 HT %": "65%",
+    "+1.5 FT %": "71%",
+    "+2.5 FT %": "46%",
+    "Ambas Marcam %": "51%",
+    "xG total": "2.50",
+    "casa": "32%",
+    "fora": "41%",
+    "Empate": "27%"
+  },
+  {
     "id": "s24m-19785775",
     "data": "2026-09-20",
     "horario": "12:30",
@@ -2448,20 +2350,6 @@
     "casa": "40%",
     "fora": "35%",
     "Empate": "25%"
-  },
-  {
-    "id": "s24m-19714165",
-    "data": "2026-09-20",
-    "horario": "12:15",
-    "Partida": "Spartak Varna vs Lokomotiv Sofia 1929",
-    "+0.5 HT %": "77%",
-    "+1.5 FT %": "85%",
-    "+2.5 FT %": "66%",
-    "Ambas Marcam %": "66%",
-    "xG total": "3.40",
-    "casa": "47%",
-    "fora": "31%",
-    "Empate": "22%"
   },
   {
     "id": "s24m-19785774",
@@ -2478,6 +2366,20 @@
     "Empate": "28%"
   },
   {
+    "id": "s24m-19714165",
+    "data": "2026-09-20",
+    "horario": "12:15",
+    "Partida": "Spartak Varna vs Lokomotiv Sofia 1929",
+    "+0.5 HT %": "77%",
+    "+1.5 FT %": "85%",
+    "+2.5 FT %": "66%",
+    "Ambas Marcam %": "66%",
+    "xG total": "3.40",
+    "casa": "47%",
+    "fora": "31%",
+    "Empate": "22%"
+  },
+  {
     "id": "s24m-19714163",
     "data": "2026-09-20",
     "horario": "14:45",
@@ -2490,20 +2392,6 @@
     "casa": "20%",
     "fora": "56%",
     "Empate": "24%"
-  },
-  {
-    "id": "s24m-19714164",
-    "data": "2026-09-20",
-    "horario": "17:30",
-    "Partida": "Levski Sofia vs Ludogorets",
-    "+0.5 HT %": "65%",
-    "+1.5 FT %": "75%",
-    "+2.5 FT %": "51%",
-    "Ambas Marcam %": "55%",
-    "xG total": "2.70",
-    "casa": "35%",
-    "fora": "39%",
-    "Empate": "26%"
   },
   {
     "id": "s24m-19713936",
@@ -2520,6 +2408,20 @@
     "Empate": "22%"
   },
   {
+    "id": "s24m-19714164",
+    "data": "2026-09-20",
+    "horario": "17:30",
+    "Partida": "Levski Sofia vs Ludogorets",
+    "+0.5 HT %": "65%",
+    "+1.5 FT %": "75%",
+    "+2.5 FT %": "51%",
+    "Ambas Marcam %": "55%",
+    "xG total": "2.70",
+    "casa": "35%",
+    "fora": "39%",
+    "Empate": "26%"
+  },
+  {
     "id": "s24m-19713934",
     "data": "2026-09-20",
     "horario": "18:00",
@@ -2531,20 +2433,6 @@
     "xG total": "3.10",
     "casa": "45%",
     "fora": "32%",
-    "Empate": "23%"
-  },
-  {
-    "id": "s24m-19725040",
-    "data": "2026-09-20",
-    "horario": "11:00",
-    "Partida": "Hradec Králové vs Teplice",
-    "+0.5 HT %": "74%",
-    "+1.5 FT %": "81%",
-    "+2.5 FT %": "59%",
-    "Ambas Marcam %": "61%",
-    "xG total": "3.05",
-    "casa": "31%",
-    "fora": "46%",
     "Empate": "23%"
   },
   {
@@ -2562,10 +2450,24 @@
     "Empate": "26%"
   },
   {
+    "id": "s24m-19725040",
+    "data": "2026-09-20",
+    "horario": "11:00",
+    "Partida": "Hradec Králové vs Teplice",
+    "+0.5 HT %": "74%",
+    "+1.5 FT %": "81%",
+    "+2.5 FT %": "59%",
+    "Ambas Marcam %": "61%",
+    "xG total": "3.05",
+    "casa": "31%",
+    "fora": "46%",
+    "Empate": "23%"
+  },
+  {
     "id": "s24m-19725043",
     "data": "2026-09-20",
     "horario": "13:00",
-    "Partida": "Sigma Olomouc vs Sparta Praha",
+    "Partida": "Sigma Olomouc vs Sparta Prag",
     "+0.5 HT %": "83%",
     "+1.5 FT %": "85%",
     "+2.5 FT %": "66%",
@@ -2593,7 +2495,7 @@
     "id": "s24m-19725038",
     "data": "2026-09-20",
     "horario": "16:00",
-    "Partida": "Slavia Praha vs Viktoria Plzeň",
+    "Partida": "Slavia Prag vs Viktoria Plzeň",
     "+0.5 HT %": "87%",
     "+1.5 FT %": "90%",
     "+2.5 FT %": "75%",
@@ -2646,20 +2548,6 @@
     "Empate": "25%"
   },
   {
-    "id": "s24m-19757676",
-    "data": "2026-09-20",
-    "horario": "12:30",
-    "Partida": "Pogoń Siedlce vs Arka Gdynia",
-    "+0.5 HT %": "73%",
-    "+1.5 FT %": "73%",
-    "+2.5 FT %": "48%",
-    "Ambas Marcam %": "52%",
-    "xG total": "2.60",
-    "casa": "28%",
-    "fora": "46%",
-    "Empate": "26%"
-  },
-  {
     "id": "s24m-19757678",
     "data": "2026-09-20",
     "horario": "15:30",
@@ -2672,6 +2560,20 @@
     "casa": "36%",
     "fora": "40%",
     "Empate": "24%"
+  },
+  {
+    "id": "s24m-19757676",
+    "data": "2026-09-20",
+    "horario": "12:30",
+    "Partida": "Pogoń Siedlce vs Arka Gdynia",
+    "+0.5 HT %": "73%",
+    "+1.5 FT %": "73%",
+    "+2.5 FT %": "48%",
+    "Ambas Marcam %": "52%",
+    "xG total": "2.60",
+    "casa": "28%",
+    "fora": "46%",
+    "Empate": "26%"
   },
   {
     "id": "s24m-19716342",
@@ -2800,20 +2702,6 @@
     "Empate": "32%"
   },
   {
-    "id": "s24m-19854180",
-    "data": "2026-09-20",
-    "horario": "11:30",
-    "Partida": "Pogradeci vs Flamurtari",
-    "+0.5 HT %": "68%",
-    "+1.5 FT %": "68%",
-    "+2.5 FT %": "42%",
-    "Ambas Marcam %": "48%",
-    "xG total": "2.35",
-    "casa": "32%",
-    "fora": "40%",
-    "Empate": "28%"
-  },
-  {
     "id": "s24m-19854197",
     "data": "2026-09-20",
     "horario": "11:30",
@@ -2826,6 +2714,20 @@
     "casa": "40%",
     "fora": "35%",
     "Empate": "25%"
+  },
+  {
+    "id": "s24m-19854180",
+    "data": "2026-09-20",
+    "horario": "11:30",
+    "Partida": "Pogradeci vs Flamurtari",
+    "+0.5 HT %": "68%",
+    "+1.5 FT %": "68%",
+    "+2.5 FT %": "42%",
+    "Ambas Marcam %": "48%",
+    "xG total": "2.35",
+    "casa": "32%",
+    "fora": "40%",
+    "Empate": "28%"
   },
   {
     "id": "s24m-19854219",
@@ -2884,20 +2786,6 @@
     "Empate": "27%"
   },
   {
-    "id": "s24m-19863782",
-    "data": "2026-09-20",
-    "horario": "13:00",
-    "Partida": "Këlcyra vs Apolonia Fier",
-    "+0.5 HT %": "61%",
-    "+1.5 FT %": "81%",
-    "+2.5 FT %": "59%",
-    "Ambas Marcam %": "61%",
-    "xG total": "3.05",
-    "casa": "39%",
-    "fora": "37%",
-    "Empate": "24%"
-  },
-  {
     "id": "s24m-19863824",
     "data": "2026-09-20",
     "horario": "13:00",
@@ -2910,6 +2798,20 @@
     "casa": "46%",
     "fora": "31%",
     "Empate": "23%"
+  },
+  {
+    "id": "s24m-19863782",
+    "data": "2026-09-20",
+    "horario": "13:00",
+    "Partida": "Këlcyra vs Apolonia Fier",
+    "+0.5 HT %": "61%",
+    "+1.5 FT %": "81%",
+    "+2.5 FT %": "59%",
+    "Ambas Marcam %": "61%",
+    "xG total": "3.05",
+    "casa": "39%",
+    "fora": "37%",
+    "Empate": "24%"
   },
   {
     "id": "s24m-19757536",
@@ -2954,20 +2856,6 @@
     "Empate": "22%"
   },
   {
-    "id": "s24m-19848965",
-    "data": "2026-09-20",
-    "horario": "12:00",
-    "Partida": "Esperança d'Andorra vs Ordino",
-    "+0.5 HT %": "67%",
-    "+1.5 FT %": "82%",
-    "+2.5 FT %": "61%",
-    "Ambas Marcam %": "62%",
-    "xG total": "3.15",
-    "casa": "29%",
-    "fora": "48%",
-    "Empate": "23%"
-  },
-  {
     "id": "s24m-19848980",
     "data": "2026-09-20",
     "horario": "09:00",
@@ -2980,6 +2868,20 @@
     "casa": "61%",
     "fora": "21%",
     "Empate": "18%"
+  },
+  {
+    "id": "s24m-19848965",
+    "data": "2026-09-20",
+    "horario": "12:00",
+    "Partida": "Esperança d'Andorra vs Ordino",
+    "+0.5 HT %": "67%",
+    "+1.5 FT %": "82%",
+    "+2.5 FT %": "61%",
+    "Ambas Marcam %": "62%",
+    "xG total": "3.15",
+    "casa": "29%",
+    "fora": "48%",
+    "Empate": "23%"
   },
   {
     "id": "s24m-19848947",
@@ -3010,18 +2912,18 @@
     "Empate": "24%"
   },
   {
-    "id": "s24m-19848715",
+    "id": "s24m-19848641",
     "data": "2026-09-20",
-    "horario": "14:30",
-    "Partida": "Desportivo Huíla vs Académica do Lobito",
-    "+0.5 HT %": "55%",
-    "+1.5 FT %": "52%",
-    "+2.5 FT %": "26%",
-    "Ambas Marcam %": "24%",
-    "xG total": "1.75",
-    "casa": "61%",
-    "fora": "11%",
-    "Empate": "28%"
+    "horario": "14:00",
+    "Partida": "Kabuscorp vs Interclube",
+    "+0.5 HT %": "53%",
+    "+1.5 FT %": "54%",
+    "+2.5 FT %": "27%",
+    "Ambas Marcam %": "35%",
+    "xG total": "1.80",
+    "casa": "34%",
+    "fora": "34%",
+    "Empate": "32%"
   },
   {
     "id": "s24m-19848690",
@@ -3038,18 +2940,18 @@
     "Empate": "31%"
   },
   {
-    "id": "s24m-19848641",
+    "id": "s24m-19848715",
     "data": "2026-09-20",
-    "horario": "14:00",
-    "Partida": "Kabuscorp vs Interclube",
-    "+0.5 HT %": "53%",
-    "+1.5 FT %": "54%",
-    "+2.5 FT %": "27%",
-    "Ambas Marcam %": "35%",
-    "xG total": "1.80",
-    "casa": "34%",
-    "fora": "34%",
-    "Empate": "32%"
+    "horario": "14:30",
+    "Partida": "Desportivo Huíla vs Académica do Lobito",
+    "+0.5 HT %": "55%",
+    "+1.5 FT %": "52%",
+    "+2.5 FT %": "26%",
+    "Ambas Marcam %": "24%",
+    "xG total": "1.75",
+    "casa": "61%",
+    "fora": "11%",
+    "Empate": "28%"
   },
   {
     "id": "s24m-19848733",
@@ -3066,20 +2968,6 @@
     "Empate": "27%"
   },
   {
-    "id": "s24m-19637931",
-    "data": "2026-09-20",
-    "horario": "18:00",
-    "Partida": "Dock Sud vs Argentino Quilmes",
-    "+0.5 HT %": "45%",
-    "+1.5 FT %": "58%",
-    "+2.5 FT %": "31%",
-    "Ambas Marcam %": "39%",
-    "xG total": "1.95",
-    "casa": "38%",
-    "fora": "30%",
-    "Empate": "32%"
-  },
-  {
     "id": "s24m-19848665",
     "data": "2026-09-20",
     "horario": "16:15",
@@ -3092,6 +2980,20 @@
     "casa": "49%",
     "fora": "21%",
     "Empate": "30%"
+  },
+  {
+    "id": "s24m-19637931",
+    "data": "2026-09-20",
+    "horario": "18:00",
+    "Partida": "Dock Sud vs Argentino Quilmes",
+    "+0.5 HT %": "45%",
+    "+1.5 FT %": "58%",
+    "+2.5 FT %": "31%",
+    "Ambas Marcam %": "39%",
+    "xG total": "1.95",
+    "casa": "38%",
+    "fora": "30%",
+    "Empate": "32%"
   },
   {
     "id": "s24m-19637936",
@@ -3108,20 +3010,6 @@
     "Empate": "34%"
   },
   {
-    "id": "s24m-19637932",
-    "data": "2026-09-20",
-    "horario": "20:00",
-    "Partida": "Deportivo Merlo vs Flandria",
-    "+0.5 HT %": "67%",
-    "+1.5 FT %": "58%",
-    "+2.5 FT %": "31%",
-    "Ambas Marcam %": "38%",
-    "xG total": "1.95",
-    "casa": "25%",
-    "fora": "44%",
-    "Empate": "31%"
-  },
-  {
     "id": "s24m-19637937",
     "data": "2026-09-20",
     "horario": "18:00",
@@ -3136,18 +3024,32 @@
     "Empate": "29%"
   },
   {
-    "id": "s24m-19636877",
+    "id": "s24m-19637932",
+    "data": "2026-09-20",
+    "horario": "20:00",
+    "Partida": "Deportivo Merlo vs Flandria",
+    "+0.5 HT %": "67%",
+    "+1.5 FT %": "58%",
+    "+2.5 FT %": "31%",
+    "Ambas Marcam %": "38%",
+    "xG total": "1.95",
+    "casa": "25%",
+    "fora": "44%",
+    "Empate": "31%"
+  },
+  {
+    "id": "s24m-19636880",
     "data": "2026-09-20",
     "horario": "18:00",
-    "Partida": "Agropecuario Argentino vs Gimnasia y Tiro de Salta",
+    "Partida": "Club Atlético Chacarita Juniors vs Quilmes Atlético Club",
     "+0.5 HT %": "45%",
-    "+1.5 FT %": "59%",
-    "+2.5 FT %": "32%",
-    "Ambas Marcam %": "39%",
-    "xG total": "2.00",
-    "casa": "27%",
-    "fora": "43%",
-    "Empate": "30%"
+    "+1.5 FT %": "51%",
+    "+2.5 FT %": "24%",
+    "Ambas Marcam %": "31%",
+    "xG total": "1.70",
+    "casa": "22%",
+    "fora": "45%",
+    "Empate": "33%"
   },
   {
     "id": "s24m-19636885",
@@ -3164,18 +3066,18 @@
     "Empate": "26%"
   },
   {
-    "id": "s24m-19636880",
+    "id": "s24m-19636877",
     "data": "2026-09-20",
     "horario": "18:00",
-    "Partida": "Club Atlético Chacarita Juniors vs Quilmes Atlético Club",
+    "Partida": "Agropecuario Argentino vs Gimnasia y Tiro de Salta",
     "+0.5 HT %": "45%",
-    "+1.5 FT %": "51%",
-    "+2.5 FT %": "24%",
-    "Ambas Marcam %": "31%",
-    "xG total": "1.70",
-    "casa": "22%",
-    "fora": "45%",
-    "Empate": "33%"
+    "+1.5 FT %": "59%",
+    "+2.5 FT %": "32%",
+    "Ambas Marcam %": "39%",
+    "xG total": "2.00",
+    "casa": "27%",
+    "fora": "43%",
+    "Empate": "30%"
   },
   {
     "id": "s24m-19636893",
@@ -3220,6 +3122,20 @@
     "Empate": "27%"
   },
   {
+    "id": "s24m-19636879",
+    "data": "2026-09-20",
+    "horario": "20:00",
+    "Partida": "Güemes vs Midland",
+    "+0.5 HT %": "65%",
+    "+1.5 FT %": "68%",
+    "+2.5 FT %": "42%",
+    "Ambas Marcam %": "44%",
+    "xG total": "2.35",
+    "casa": "21%",
+    "fora": "53%",
+    "Empate": "26%"
+  },
+  {
     "id": "s24m-19636890",
     "data": "2026-09-20",
     "horario": "20:00",
@@ -3246,20 +3162,6 @@
     "casa": "36%",
     "fora": "33%",
     "Empate": "31%"
-  },
-  {
-    "id": "s24m-19636879",
-    "data": "2026-09-20",
-    "horario": "20:00",
-    "Partida": "Güemes vs Midland",
-    "+0.5 HT %": "65%",
-    "+1.5 FT %": "68%",
-    "+2.5 FT %": "42%",
-    "Ambas Marcam %": "44%",
-    "xG total": "2.35",
-    "casa": "21%",
-    "fora": "53%",
-    "Empate": "26%"
   },
   {
     "id": "s24m-19636892",
@@ -3304,20 +3206,6 @@
     "Empate": "28%"
   },
   {
-    "id": "s24m-19637465",
-    "data": "2026-09-20",
-    "horario": "18:00",
-    "Partida": "General Lamadrid vs Leones de Rosario",
-    "+0.5 HT %": "50%",
-    "+1.5 FT %": "37%",
-    "+2.5 FT %": "14%",
-    "Ambas Marcam %": "22%",
-    "xG total": "1.30",
-    "casa": "21%",
-    "fora": "40%",
-    "Empate": "39%"
-  },
-  {
     "id": "s24m-19637464",
     "data": "2026-09-20",
     "horario": "18:00",
@@ -3330,6 +3218,20 @@
     "casa": "43%",
     "fora": "23%",
     "Empate": "34%"
+  },
+  {
+    "id": "s24m-19637465",
+    "data": "2026-09-20",
+    "horario": "18:00",
+    "Partida": "General Lamadrid vs Leones de Rosario",
+    "+0.5 HT %": "50%",
+    "+1.5 FT %": "37%",
+    "+2.5 FT %": "14%",
+    "Ambas Marcam %": "22%",
+    "xG total": "1.30",
+    "casa": "21%",
+    "fora": "40%",
+    "Empate": "39%"
   },
   {
     "id": "s24m-19783156",
@@ -3346,20 +3248,6 @@
     "Empate": "37%"
   },
   {
-    "id": "s24m-19783158",
-    "data": "2026-09-20",
-    "horario": "18:00",
-    "Partida": "Juventud Unida Univ. vs San Martín Mendoza",
-    "+0.5 HT %": "57%",
-    "+1.5 FT %": "46%",
-    "+2.5 FT %": "20%",
-    "Ambas Marcam %": "29%",
-    "xG total": "1.55",
-    "casa": "28%",
-    "fora": "36%",
-    "Empate": "36%"
-  },
-  {
     "id": "s24m-19783157",
     "data": "2026-09-20",
     "horario": "18:00",
@@ -3372,6 +3260,20 @@
     "casa": "29%",
     "fora": "37%",
     "Empate": "34%"
+  },
+  {
+    "id": "s24m-19783158",
+    "data": "2026-09-20",
+    "horario": "18:00",
+    "Partida": "Juventud Unida Univ. vs San Martín Mendoza",
+    "+0.5 HT %": "57%",
+    "+1.5 FT %": "46%",
+    "+2.5 FT %": "20%",
+    "Ambas Marcam %": "29%",
+    "xG total": "1.55",
+    "casa": "28%",
+    "fora": "36%",
+    "Empate": "36%"
   },
   {
     "id": "s24m-19783159",
@@ -3388,20 +3290,6 @@
     "Empate": "27%"
   },
   {
-    "id": "s24m-19783241",
-    "data": "2026-09-20",
-    "horario": "18:00",
-    "Partida": "Sarmiento de La Banda vs Defensores Belgrano VR",
-    "+0.5 HT %": "59%",
-    "+1.5 FT %": "61%",
-    "+2.5 FT %": "34%",
-    "Ambas Marcam %": "39%",
-    "xG total": "2.05",
-    "casa": "24%",
-    "fora": "47%",
-    "Empate": "29%"
-  },
-  {
     "id": "s24m-19783160",
     "data": "2026-09-20",
     "horario": "18:00",
@@ -3414,6 +3302,20 @@
     "casa": "51%",
     "fora": "19%",
     "Empate": "30%"
+  },
+  {
+    "id": "s24m-19783241",
+    "data": "2026-09-20",
+    "horario": "18:00",
+    "Partida": "Sarmiento de La Banda vs Defensores Belgrano VR",
+    "+0.5 HT %": "59%",
+    "+1.5 FT %": "61%",
+    "+2.5 FT %": "34%",
+    "Ambas Marcam %": "39%",
+    "xG total": "2.05",
+    "casa": "24%",
+    "fora": "47%",
+    "Empate": "29%"
   },
   {
     "id": "s24m-19783242",
@@ -3584,6 +3486,20 @@
     "Empate": "28%"
   },
   {
+    "id": "s24m-19739219",
+    "data": "2026-09-20",
+    "horario": "16:00",
+    "Partida": "Ararat vs Syunik",
+    "+0.5 HT %": "65%",
+    "+1.5 FT %": "70%",
+    "+2.5 FT %": "44%",
+    "Ambas Marcam %": "49%",
+    "xG total": "2.45",
+    "casa": "42%",
+    "fora": "30%",
+    "Empate": "28%"
+  },
+  {
     "id": "s24m-19739217",
     "data": "2026-09-20",
     "horario": "14:00",
@@ -3609,20 +3525,6 @@
     "xG total": "2.15",
     "casa": "50%",
     "fora": "22%",
-    "Empate": "28%"
-  },
-  {
-    "id": "s24m-19739219",
-    "data": "2026-09-20",
-    "horario": "16:00",
-    "Partida": "Ararat vs Syunik",
-    "+0.5 HT %": "65%",
-    "+1.5 FT %": "70%",
-    "+2.5 FT %": "44%",
-    "Ambas Marcam %": "49%",
-    "xG total": "2.45",
-    "casa": "42%",
-    "fora": "30%",
     "Empate": "28%"
   },
   {
@@ -3696,20 +3598,6 @@
     "Empate": "22%"
   },
   {
-    "id": "s24m-19831057",
-    "data": "2026-09-20",
-    "horario": "09:00",
-    "Partida": "SK Pama vs Leithaprodersdorf",
-    "+0.5 HT %": "79%",
-    "+1.5 FT %": "77%",
-    "+2.5 FT %": "53%",
-    "Ambas Marcam %": "57%",
-    "xG total": "2.80",
-    "casa": "35%",
-    "fora": "40%",
-    "Empate": "25%"
-  },
-  {
     "id": "s24m-19849092",
     "data": "2026-09-20",
     "horario": "10:30",
@@ -3722,6 +3610,20 @@
     "casa": "20%",
     "fora": "58%",
     "Empate": "22%"
+  },
+  {
+    "id": "s24m-19831057",
+    "data": "2026-09-20",
+    "horario": "09:00",
+    "Partida": "SK Pama vs Leithaprodersdorf",
+    "+0.5 HT %": "79%",
+    "+1.5 FT %": "77%",
+    "+2.5 FT %": "53%",
+    "Ambas Marcam %": "57%",
+    "xG total": "2.80",
+    "casa": "35%",
+    "fora": "40%",
+    "Empate": "25%"
   },
   {
     "id": "s24m-19754216",
@@ -3738,20 +3640,6 @@
     "Empate": "18%"
   },
   {
-    "id": "s24m-19829731",
-    "data": "2026-09-20",
-    "horario": "10:30",
-    "Partida": "St. Pölten II vs St. Peter in der Au",
-    "+0.5 HT %": "81%",
-    "+1.5 FT %": "82%",
-    "+2.5 FT %": "61%",
-    "Ambas Marcam %": "63%",
-    "xG total": "3.15",
-    "casa": "41%",
-    "fora": "35%",
-    "Empate": "24%"
-  },
-  {
     "id": "s24m-19830387",
     "data": "2026-09-20",
     "horario": "08:30",
@@ -3764,6 +3652,20 @@
     "casa": "48%",
     "fora": "30%",
     "Empate": "22%"
+  },
+  {
+    "id": "s24m-19829731",
+    "data": "2026-09-20",
+    "horario": "10:30",
+    "Partida": "St. Pölten II vs St. Peter in der Au",
+    "+0.5 HT %": "81%",
+    "+1.5 FT %": "82%",
+    "+2.5 FT %": "61%",
+    "Ambas Marcam %": "63%",
+    "xG total": "3.15",
+    "casa": "41%",
+    "fora": "35%",
+    "Empate": "24%"
   },
   {
     "id": "s24m-19830417",
@@ -3808,20 +3710,6 @@
     "Empate": "24%"
   },
   {
-    "id": "s24m-19829924",
-    "data": "2026-09-20",
-    "horario": "14:00",
-    "Partida": "Nenzing vs FC Egg",
-    "+0.5 HT %": "80%",
-    "+1.5 FT %": "86%",
-    "+2.5 FT %": "68%",
-    "Ambas Marcam %": "65%",
-    "xG total": "3.50",
-    "casa": "22%",
-    "fora": "58%",
-    "Empate": "20%"
-  },
-  {
     "id": "s24m-19830516",
     "data": "2026-09-20",
     "horario": "09:15",
@@ -3834,6 +3722,20 @@
     "casa": "45%",
     "fora": "32%",
     "Empate": "23%"
+  },
+  {
+    "id": "s24m-19829924",
+    "data": "2026-09-20",
+    "horario": "14:00",
+    "Partida": "Nenzing vs FC Egg",
+    "+0.5 HT %": "80%",
+    "+1.5 FT %": "86%",
+    "+2.5 FT %": "68%",
+    "Ambas Marcam %": "65%",
+    "xG total": "3.50",
+    "casa": "22%",
+    "fora": "58%",
+    "Empate": "20%"
   },
   {
     "id": "s24m-19830661",
@@ -4018,20 +3920,6 @@
     "Empate": "7%"
   },
   {
-    "id": "s24m-19742977",
-    "data": "2026-09-20",
-    "horario": "13:00",
-    "Partida": "Club Brugge II W vs Standard Liège II W",
-    "+0.5 HT %": "78%",
-    "+1.5 FT %": "89%",
-    "+2.5 FT %": "72%",
-    "Ambas Marcam %": "72%",
-    "xG total": "3.75",
-    "casa": "38%",
-    "fora": "40%",
-    "Empate": "22%"
-  },
-  {
     "id": "s24m-19883513",
     "data": "2026-09-20",
     "horario": "14:00",
@@ -4044,6 +3932,20 @@
     "casa": "20%",
     "fora": "61%",
     "Empate": "19%"
+  },
+  {
+    "id": "s24m-19742977",
+    "data": "2026-09-20",
+    "horario": "13:00",
+    "Partida": "Club Brugge II W vs Standard Liège II W",
+    "+0.5 HT %": "78%",
+    "+1.5 FT %": "89%",
+    "+2.5 FT %": "72%",
+    "Ambas Marcam %": "72%",
+    "xG total": "3.75",
+    "casa": "38%",
+    "fora": "40%",
+    "Empate": "22%"
   },
   {
     "id": "s24m-19737296",
@@ -4214,20 +4116,6 @@
     "Empate": "21%"
   },
   {
-    "id": "s24m-19839797",
-    "data": "2026-09-20",
-    "horario": "13:00",
-    "Partida": "Houdinois vs Rapid Symphorinois",
-    "+0.5 HT %": "15%",
-    "+1.5 FT %": "85%",
-    "+2.5 FT %": "65%",
-    "Ambas Marcam %": "66%",
-    "xG total": "3.35",
-    "casa": "42%",
-    "fora": "35%",
-    "Empate": "23%"
-  },
-  {
     "id": "s24m-19839768",
     "data": "2026-09-20",
     "horario": "13:00",
@@ -4240,6 +4128,20 @@
     "casa": "25%",
     "fora": "53%",
     "Empate": "22%"
+  },
+  {
+    "id": "s24m-19839797",
+    "data": "2026-09-20",
+    "horario": "13:00",
+    "Partida": "Houdinois vs Rapid Symphorinois",
+    "+0.5 HT %": "15%",
+    "+1.5 FT %": "85%",
+    "+2.5 FT %": "65%",
+    "Ambas Marcam %": "66%",
+    "xG total": "3.35",
+    "casa": "42%",
+    "fora": "35%",
+    "Empate": "23%"
   },
   {
     "id": "s24m-19840427",
@@ -4424,20 +4326,6 @@
     "Empate": "20%"
   },
   {
-    "id": "s24m-19834189",
-    "data": "2026-09-20",
-    "horario": "13:00",
-    "Partida": "Eendracht Termien vs Sint-Truiden II",
-    "+0.5 HT %": "84%",
-    "+1.5 FT %": "95%",
-    "+2.5 FT %": "85%",
-    "Ambas Marcam %": "82%",
-    "xG total": "4.75",
-    "casa": "31%",
-    "fora": "50%",
-    "Empate": "19%"
-  },
-  {
     "id": "s24m-19834179",
     "data": "2026-09-20",
     "horario": "13:00",
@@ -4450,6 +4338,20 @@
     "casa": "28%",
     "fora": "49%",
     "Empate": "23%"
+  },
+  {
+    "id": "s24m-19834189",
+    "data": "2026-09-20",
+    "horario": "13:00",
+    "Partida": "Eendracht Termien vs Sint-Truiden II",
+    "+0.5 HT %": "84%",
+    "+1.5 FT %": "95%",
+    "+2.5 FT %": "85%",
+    "Ambas Marcam %": "82%",
+    "xG total": "4.75",
+    "casa": "31%",
+    "fora": "50%",
+    "Empate": "19%"
   },
   {
     "id": "s24m-19834195",
@@ -4480,20 +4382,6 @@
     "Empate": "20%"
   },
   {
-    "id": "s24m-19884462",
-    "data": "2026-09-20",
-    "horario": "18:00",
-    "Partida": "YMSC vs St. George's Colts",
-    "+0.5 HT %": "65%",
-    "+1.5 FT %": "94%",
-    "+2.5 FT %": "83%",
-    "Ambas Marcam %": "80%",
-    "xG total": "4.55",
-    "casa": "31%",
-    "fora": "50%",
-    "Empate": "19%"
-  },
-  {
     "id": "s24m-19880574",
     "data": "2026-09-20",
     "horario": "22:00",
@@ -4505,6 +4393,20 @@
     "xG total": "3.75",
     "casa": "24%",
     "fora": "57%",
+    "Empate": "19%"
+  },
+  {
+    "id": "s24m-19884462",
+    "data": "2026-09-20",
+    "horario": "18:00",
+    "Partida": "YMSC vs St. George's Colts",
+    "+0.5 HT %": "65%",
+    "+1.5 FT %": "94%",
+    "+2.5 FT %": "83%",
+    "Ambas Marcam %": "80%",
+    "xG total": "4.55",
+    "casa": "31%",
+    "fora": "50%",
     "Empate": "19%"
   },
   {
@@ -4526,14 +4428,14 @@
     "data": "2026-09-20",
     "horario": "00:00",
     "Partida": "Real Potosí vs Nacional Potosí",
-    "+0.5 HT %": "61%",
-    "+1.5 FT %": "74%",
-    "+2.5 FT %": "49%",
-    "Ambas Marcam %": "54%",
-    "xG total": "2.65",
-    "casa": "36%",
-    "fora": "38%",
-    "Empate": "26%"
+    "+0.5 HT %": "57%",
+    "+1.5 FT %": "75%",
+    "+2.5 FT %": "51%",
+    "Ambas Marcam %": "55%",
+    "xG total": "2.70",
+    "casa": "33%",
+    "fora": "42%",
+    "Empate": "25%"
   },
   {
     "id": "s24m-19813807",
@@ -4550,6 +4452,20 @@
     "Empate": "21%"
   },
   {
+    "id": "s24m-19813808",
+    "data": "2026-09-20",
+    "horario": "21:15",
+    "Partida": "The Strongest vs Club Bolívar",
+    "+0.5 HT %": "83%",
+    "+1.5 FT %": "92%",
+    "+2.5 FT %": "78%",
+    "Ambas Marcam %": "76%",
+    "xG total": "4.15",
+    "casa": "33%",
+    "fora": "47%",
+    "Empate": "20%"
+  },
+  {
     "id": "s24m-19813809",
     "data": "2026-09-20",
     "horario": "23:30",
@@ -4564,18 +4480,18 @@
     "Empate": "22%"
   },
   {
-    "id": "s24m-19813808",
+    "id": "s24m-19770806",
     "data": "2026-09-20",
-    "horario": "21:15",
-    "Partida": "The Strongest vs Club Bolívar",
-    "+0.5 HT %": "83%",
-    "+1.5 FT %": "92%",
-    "+2.5 FT %": "78%",
-    "Ambas Marcam %": "76%",
-    "xG total": "4.15",
-    "casa": "33%",
-    "fora": "47%",
-    "Empate": "20%"
+    "horario": "13:30",
+    "Partida": "Stupčanica Olovo vs Buducnost Banovici",
+    "+0.5 HT %": "70%",
+    "+1.5 FT %": "79%",
+    "+2.5 FT %": "57%",
+    "Ambas Marcam %": "55%",
+    "xG total": "2.95",
+    "casa": "57%",
+    "fora": "21%",
+    "Empate": "22%"
   },
   {
     "id": "s24m-19770808",
@@ -4604,20 +4520,6 @@
     "casa": "19%",
     "fora": "56%",
     "Empate": "25%"
-  },
-  {
-    "id": "s24m-19770806",
-    "data": "2026-09-20",
-    "horario": "13:30",
-    "Partida": "Stupčanica Olovo vs Buducnost Banovici",
-    "+0.5 HT %": "70%",
-    "+1.5 FT %": "79%",
-    "+2.5 FT %": "57%",
-    "Ambas Marcam %": "55%",
-    "xG total": "2.95",
-    "casa": "57%",
-    "fora": "21%",
-    "Empate": "22%"
   },
   {
     "id": "s24m-19766184",
@@ -4746,20 +4648,6 @@
     "Empate": "25%"
   },
   {
-    "id": "s24m-19783630",
-    "data": "2026-09-20",
-    "horario": "17:45",
-    "Partida": "Friburguense vs Campos AA",
-    "+0.5 HT %": "59%",
-    "+1.5 FT %": "73%",
-    "+2.5 FT %": "48%",
-    "Ambas Marcam %": "52%",
-    "xG total": "2.60",
-    "casa": "28%",
-    "fora": "46%",
-    "Empate": "26%"
-  },
-  {
     "id": "s24m-19783628",
     "data": "2026-09-20",
     "horario": "17:45",
@@ -4772,6 +4660,20 @@
     "casa": "34%",
     "fora": "37%",
     "Empate": "29%"
+  },
+  {
+    "id": "s24m-19783630",
+    "data": "2026-09-20",
+    "horario": "17:45",
+    "Partida": "Friburguense vs Campos AA",
+    "+0.5 HT %": "59%",
+    "+1.5 FT %": "73%",
+    "+2.5 FT %": "48%",
+    "Ambas Marcam %": "52%",
+    "xG total": "2.60",
+    "casa": "28%",
+    "fora": "46%",
+    "Empate": "26%"
   },
   {
     "id": "s24m-19783631",
@@ -5236,20 +5138,6 @@
     "Empate": "25%"
   },
   {
-    "id": "s24m-19845513",
-    "data": "2026-09-20",
-    "horario": "13:00",
-    "Partida": "Ngozi City vs Kayanza United",
-    "+0.5 HT %": "68%",
-    "+1.5 FT %": "81%",
-    "+2.5 FT %": "59%",
-    "Ambas Marcam %": "61%",
-    "xG total": "3.05",
-    "casa": "37%",
-    "fora": "39%",
-    "Empate": "24%"
-  },
-  {
     "id": "s24m-19875931",
     "data": "2026-09-20",
     "horario": "08:45",
@@ -5306,18 +5194,32 @@
     "Empate": "22%"
   },
   {
+    "id": "s24m-19667543",
+    "data": "2026-09-20",
+    "horario": "19:00",
+    "Partida": "HFX Wanderers vs York9",
+    "+0.5 HT %": "73%",
+    "+1.5 FT %": "87%",
+    "+2.5 FT %": "69%",
+    "Ambas Marcam %": "69%",
+    "xG total": "3.55",
+    "casa": "42%",
+    "fora": "36%",
+    "Empate": "22%"
+  },
+  {
     "id": "s24m-19667545",
     "data": "2026-09-20",
     "horario": "00:00",
     "Partida": "Pacific vs Vancouver FC",
-    "+0.5 HT %": "68%",
-    "+1.5 FT %": "80%",
-    "+2.5 FT %": "58%",
-    "Ambas Marcam %": "60%",
-    "xG total": "3.00",
-    "casa": "31%",
-    "fora": "45%",
-    "Empate": "24%"
+    "+0.5 HT %": "70%",
+    "+1.5 FT %": "76%",
+    "+2.5 FT %": "52%",
+    "Ambas Marcam %": "56%",
+    "xG total": "2.75",
+    "casa": "36%",
+    "fora": "38%",
+    "Empate": "26%"
   },
   {
     "id": "s24m-19667544",
@@ -5348,34 +5250,6 @@
     "Empate": "27%"
   },
   {
-    "id": "s24m-19713008",
-    "data": "2026-09-20",
-    "horario": "19:00",
-    "Partida": "Fortaleza CEIF vs Junior FC",
-    "+0.5 HT %": "68%",
-    "+1.5 FT %": "75%",
-    "+2.5 FT %": "51%",
-    "Ambas Marcam %": "55%",
-    "xG total": "2.70",
-    "casa": "42%",
-    "fora": "33%",
-    "Empate": "25%"
-  },
-  {
-    "id": "s24m-19667543",
-    "data": "2026-09-20",
-    "horario": "19:00",
-    "Partida": "HFX Wanderers vs York9",
-    "+0.5 HT %": "73%",
-    "+1.5 FT %": "87%",
-    "+2.5 FT %": "69%",
-    "Ambas Marcam %": "69%",
-    "xG total": "3.55",
-    "casa": "42%",
-    "fora": "36%",
-    "Empate": "22%"
-  },
-  {
     "id": "s24m-19713005",
     "data": "2026-09-20",
     "horario": "21:05",
@@ -5387,6 +5261,20 @@
     "xG total": "2.85",
     "casa": "39%",
     "fora": "36%",
+    "Empate": "25%"
+  },
+  {
+    "id": "s24m-19713008",
+    "data": "2026-09-20",
+    "horario": "19:00",
+    "Partida": "Fortaleza CEIF vs Junior FC",
+    "+0.5 HT %": "68%",
+    "+1.5 FT %": "75%",
+    "+2.5 FT %": "51%",
+    "Ambas Marcam %": "55%",
+    "xG total": "2.70",
+    "casa": "42%",
+    "fora": "33%",
     "Empate": "25%"
   },
   {
@@ -5474,6 +5362,20 @@
     "Empate": "24%"
   },
   {
+    "id": "s24m-19783092",
+    "data": "2026-09-20",
+    "horario": "17:00",
+    "Partida": "Aserrí vs Santa Ana",
+    "+0.5 HT %": "82%",
+    "+1.5 FT %": "84%",
+    "+2.5 FT %": "63%",
+    "Ambas Marcam %": "63%",
+    "xG total": "3.25",
+    "casa": "27%",
+    "fora": "50%",
+    "Empate": "23%"
+  },
+  {
     "id": "s24m-19715072",
     "data": "2026-09-20",
     "horario": "02:00",
@@ -5500,20 +5402,6 @@
     "casa": "34%",
     "fora": "37%",
     "Empate": "29%"
-  },
-  {
-    "id": "s24m-19783092",
-    "data": "2026-09-20",
-    "horario": "17:00",
-    "Partida": "Aserrí vs Santa Ana",
-    "+0.5 HT %": "82%",
-    "+1.5 FT %": "84%",
-    "+2.5 FT %": "63%",
-    "Ambas Marcam %": "63%",
-    "xG total": "3.25",
-    "casa": "27%",
-    "fora": "50%",
-    "Empate": "23%"
   },
   {
     "id": "s24m-19774165",
@@ -5558,20 +5446,6 @@
     "Empate": "22%"
   },
   {
-    "id": "s24m-19783755",
-    "data": "2026-09-20",
-    "horario": "14:30",
-    "Partida": "Kutjevo vs Tomislav",
-    "+0.5 HT %": "16%",
-    "+1.5 FT %": "85%",
-    "+2.5 FT %": "65%",
-    "Ambas Marcam %": "66%",
-    "xG total": "3.35",
-    "casa": "35%",
-    "fora": "42%",
-    "Empate": "23%"
-  },
-  {
     "id": "s24m-19783753",
     "data": "2026-09-20",
     "horario": "14:30",
@@ -5584,6 +5458,20 @@
     "casa": "56%",
     "fora": "24%",
     "Empate": "20%"
+  },
+  {
+    "id": "s24m-19783755",
+    "data": "2026-09-20",
+    "horario": "14:30",
+    "Partida": "Kutjevo vs Tomislav",
+    "+0.5 HT %": "16%",
+    "+1.5 FT %": "85%",
+    "+2.5 FT %": "65%",
+    "Ambas Marcam %": "66%",
+    "xG total": "3.35",
+    "casa": "35%",
+    "fora": "42%",
+    "Empate": "23%"
   },
   {
     "id": "s24m-19863489",
@@ -5656,20 +5544,6 @@
     "Empate": "24%"
   },
   {
-    "id": "s24m-19790774",
-    "data": "2026-09-20",
-    "horario": "16:00",
-    "Partida": "Istra 1961 U19 vs Varaždin U19",
-    "+0.5 HT %": "78%",
-    "+1.5 FT %": "87%",
-    "+2.5 FT %": "70%",
-    "Ambas Marcam %": "62%",
-    "xG total": "3.60",
-    "casa": "66%",
-    "fora": "16%",
-    "Empate": "18%"
-  },
-  {
     "id": "s24m-19790767",
     "data": "2026-09-20",
     "horario": "13:00",
@@ -5684,18 +5558,18 @@
     "Empate": "24%"
   },
   {
-    "id": "s24m-19777903",
+    "id": "s24m-19790774",
     "data": "2026-09-20",
     "horario": "16:00",
-    "Partida": "Aris Limassol vs Karmiotissa",
-    "+0.5 HT %": "74%",
-    "+1.5 FT %": "84%",
-    "+2.5 FT %": "63%",
-    "Ambas Marcam %": "64%",
-    "xG total": "3.25",
-    "casa": "33%",
-    "fora": "44%",
-    "Empate": "23%"
+    "Partida": "Istra 1961 U19 vs Varaždin U19",
+    "+0.5 HT %": "78%",
+    "+1.5 FT %": "87%",
+    "+2.5 FT %": "70%",
+    "Ambas Marcam %": "62%",
+    "xG total": "3.60",
+    "casa": "66%",
+    "fora": "16%",
+    "Empate": "18%"
   },
   {
     "id": "s24m-19777902",
@@ -5709,6 +5583,20 @@
     "xG total": "2.45",
     "casa": "63%",
     "fora": "14%",
+    "Empate": "23%"
+  },
+  {
+    "id": "s24m-19777903",
+    "data": "2026-09-20",
+    "horario": "16:00",
+    "Partida": "Aris Limassol vs Karmiotissa",
+    "+0.5 HT %": "74%",
+    "+1.5 FT %": "84%",
+    "+2.5 FT %": "63%",
+    "Ambas Marcam %": "64%",
+    "xG total": "3.25",
+    "casa": "33%",
+    "fora": "44%",
     "Empate": "23%"
   },
   {
@@ -5754,20 +5642,6 @@
     "Empate": "22%"
   },
   {
-    "id": "s24m-19759761",
-    "data": "2026-09-20",
-    "horario": "14:30",
-    "Partida": "SK Artis Brno vs Sparta Praha II W",
-    "+0.5 HT %": "85%",
-    "+1.5 FT %": "91%",
-    "+2.5 FT %": "77%",
-    "Ambas Marcam %": "74%",
-    "xG total": "4.05",
-    "casa": "28%",
-    "fora": "52%",
-    "Empate": "20%"
-  },
-  {
     "id": "s24m-19759760",
     "data": "2026-09-20",
     "horario": "14:00",
@@ -5780,6 +5654,20 @@
     "casa": "59%",
     "fora": "22%",
     "Empate": "19%"
+  },
+  {
+    "id": "s24m-19759761",
+    "data": "2026-09-20",
+    "horario": "14:30",
+    "Partida": "SK Artis Brno vs Sparta Praha II W",
+    "+0.5 HT %": "85%",
+    "+1.5 FT %": "91%",
+    "+2.5 FT %": "77%",
+    "Ambas Marcam %": "74%",
+    "xG total": "4.05",
+    "casa": "28%",
+    "fora": "52%",
+    "Empate": "20%"
   },
   {
     "id": "s24m-19791357",
@@ -5880,20 +5768,6 @@
     "Empate": "22%"
   },
   {
-    "id": "s24m-19791362",
-    "data": "2026-09-20",
-    "horario": "14:30",
-    "Partida": "Varnsdorf vs Jablonec II",
-    "+0.5 HT %": "83%",
-    "+1.5 FT %": "90%",
-    "+2.5 FT %": "74%",
-    "Ambas Marcam %": "70%",
-    "xG total": "3.85",
-    "casa": "22%",
-    "fora": "59%",
-    "Empate": "19%"
-  },
-  {
     "id": "s24m-19791361",
     "data": "2026-09-20",
     "horario": "14:30",
@@ -5906,6 +5780,20 @@
     "casa": "38%",
     "fora": "38%",
     "Empate": "24%"
+  },
+  {
+    "id": "s24m-19791362",
+    "data": "2026-09-20",
+    "horario": "14:30",
+    "Partida": "Varnsdorf vs Jablonec II",
+    "+0.5 HT %": "83%",
+    "+1.5 FT %": "90%",
+    "+2.5 FT %": "74%",
+    "Ambas Marcam %": "70%",
+    "xG total": "3.85",
+    "casa": "22%",
+    "fora": "59%",
+    "Empate": "19%"
   },
   {
     "id": "s24m-19756010",
@@ -5922,20 +5810,6 @@
     "Empate": "23%"
   },
   {
-    "id": "s24m-19756016",
-    "data": "2026-09-20",
-    "horario": "08:15",
-    "Partida": "Zbrojovka Brno II vs Hodonín-Šardice",
-    "+0.5 HT %": "83%",
-    "+1.5 FT %": "85%",
-    "+2.5 FT %": "66%",
-    "Ambas Marcam %": "64%",
-    "xG total": "3.40",
-    "casa": "56%",
-    "fora": "23%",
-    "Empate": "21%"
-  },
-  {
     "id": "s24m-19756011",
     "data": "2026-09-20",
     "horario": "08:15",
@@ -5948,6 +5822,20 @@
     "casa": "41%",
     "fora": "34%",
     "Empate": "25%"
+  },
+  {
+    "id": "s24m-19756016",
+    "data": "2026-09-20",
+    "horario": "08:15",
+    "Partida": "Zbrojovka Brno II vs Hodonín-Šardice",
+    "+0.5 HT %": "83%",
+    "+1.5 FT %": "85%",
+    "+2.5 FT %": "66%",
+    "Ambas Marcam %": "64%",
+    "xG total": "3.40",
+    "casa": "56%",
+    "fora": "23%",
+    "Empate": "21%"
   },
   {
     "id": "s24m-19756012",
@@ -6006,6 +5894,20 @@
     "Empate": "18%"
   },
   {
+    "id": "s24m-19791777",
+    "data": "2026-09-20",
+    "horario": "14:30",
+    "Partida": "Spartak Police n/Metují vs Pěnčín-Turnov",
+    "+0.5 HT %": "85%",
+    "+1.5 FT %": "92%",
+    "+2.5 FT %": "78%",
+    "Ambas Marcam %": "76%",
+    "xG total": "4.15",
+    "casa": "32%",
+    "fora": "49%",
+    "Empate": "19%"
+  },
+  {
     "id": "s24m-19791893",
     "data": "2026-09-20",
     "horario": "13:30",
@@ -6034,32 +5936,18 @@
     "Empate": "24%"
   },
   {
-    "id": "s24m-19791777",
+    "id": "s24m-19792018",
     "data": "2026-09-20",
-    "horario": "14:30",
-    "Partida": "Spartak Police n/Metují vs Pěnčín-Turnov",
-    "+0.5 HT %": "85%",
-    "+1.5 FT %": "92%",
-    "+2.5 FT %": "78%",
-    "Ambas Marcam %": "76%",
-    "xG total": "4.15",
-    "casa": "32%",
-    "fora": "49%",
-    "Empate": "19%"
-  },
-  {
-    "id": "s24m-19792015",
-    "data": "2026-09-20",
-    "horario": "13:30",
-    "Partida": "Tatran Všechovice vs Sternberk",
-    "+0.5 HT %": "82%",
-    "+1.5 FT %": "88%",
-    "+2.5 FT %": "71%",
-    "Ambas Marcam %": "69%",
-    "xG total": "3.65",
-    "casa": "53%",
-    "fora": "27%",
-    "Empate": "20%"
+    "horario": "08:30",
+    "Partida": "Sokol Lanžhot vs Baťov",
+    "+0.5 HT %": "74%",
+    "+1.5 FT %": "77%",
+    "+2.5 FT %": "53%",
+    "Ambas Marcam %": "57%",
+    "xG total": "2.80",
+    "casa": "42%",
+    "fora": "33%",
+    "Empate": "25%"
   },
   {
     "id": "s24m-19792012",
@@ -6076,18 +5964,18 @@
     "Empate": "20%"
   },
   {
-    "id": "s24m-19792018",
+    "id": "s24m-19792015",
     "data": "2026-09-20",
-    "horario": "08:30",
-    "Partida": "Sokol Lanžhot vs Baťov",
-    "+0.5 HT %": "74%",
-    "+1.5 FT %": "77%",
-    "+2.5 FT %": "53%",
-    "Ambas Marcam %": "57%",
-    "xG total": "2.80",
-    "casa": "42%",
-    "fora": "33%",
-    "Empate": "25%"
+    "horario": "13:30",
+    "Partida": "Tatran Všechovice vs Sternberk",
+    "+0.5 HT %": "82%",
+    "+1.5 FT %": "88%",
+    "+2.5 FT %": "71%",
+    "Ambas Marcam %": "69%",
+    "xG total": "3.65",
+    "casa": "53%",
+    "fora": "27%",
+    "Empate": "20%"
   },
   {
     "id": "s24m-19760868",
@@ -6102,20 +5990,6 @@
     "casa": "18%",
     "fora": "66%",
     "Empate": "16%"
-  },
-  {
-    "id": "s24m-19732291",
-    "data": "2026-09-20",
-    "horario": "12:30",
-    "Partida": "Banik Ostrava B vs Ústí nad Labem",
-    "+0.5 HT %": "82%",
-    "+1.5 FT %": "78%",
-    "+2.5 FT %": "54%",
-    "Ambas Marcam %": "58%",
-    "xG total": "2.85",
-    "casa": "41%",
-    "fora": "34%",
-    "Empate": "25%"
   },
   {
     "id": "s24m-19732292",
@@ -6146,6 +6020,20 @@
     "Empate": "24%"
   },
   {
+    "id": "s24m-19732291",
+    "data": "2026-09-20",
+    "horario": "12:30",
+    "Partida": "Banik Ostrava B vs Ústí nad Labem",
+    "+0.5 HT %": "82%",
+    "+1.5 FT %": "78%",
+    "+2.5 FT %": "54%",
+    "Ambas Marcam %": "58%",
+    "xG total": "2.85",
+    "casa": "41%",
+    "fora": "34%",
+    "Empate": "25%"
+  },
+  {
     "id": "s24m-19732296",
     "data": "2026-09-20",
     "horario": "14:30",
@@ -6158,20 +6046,6 @@
     "casa": "38%",
     "fora": "38%",
     "Empate": "24%"
-  },
-  {
-    "id": "s24m-19760530",
-    "data": "2026-09-20",
-    "horario": "09:15",
-    "Partida": "Silkeborg IF W vs Aalborg Freja W",
-    "+0.5 HT %": "26%",
-    "+1.5 FT %": "82%",
-    "+2.5 FT %": "60%",
-    "Ambas Marcam %": "59%",
-    "xG total": "3.10",
-    "casa": "24%",
-    "fora": "54%",
-    "Empate": "22%"
   },
   {
     "id": "s24m-19736217",
@@ -6202,17 +6076,17 @@
     "Empate": "23%"
   },
   {
-    "id": "s24m-19759520",
+    "id": "s24m-19760530",
     "data": "2026-09-20",
-    "horario": "11:00",
-    "Partida": "Thisted vs Brabrand",
-    "+0.5 HT %": "84%",
-    "+1.5 FT %": "86%",
-    "+2.5 FT %": "68%",
-    "Ambas Marcam %": "68%",
-    "xG total": "3.50",
-    "casa": "31%",
-    "fora": "47%",
+    "horario": "09:15",
+    "Partida": "Silkeborg IF W vs Aalborg Freja W",
+    "+0.5 HT %": "26%",
+    "+1.5 FT %": "82%",
+    "+2.5 FT %": "60%",
+    "Ambas Marcam %": "59%",
+    "xG total": "3.10",
+    "casa": "24%",
+    "fora": "54%",
     "Empate": "22%"
   },
   {
@@ -6228,6 +6102,20 @@
     "casa": "45%",
     "fora": "36%",
     "Empate": "19%"
+  },
+  {
+    "id": "s24m-19759520",
+    "data": "2026-09-20",
+    "horario": "11:00",
+    "Partida": "Thisted vs Brabrand",
+    "+0.5 HT %": "84%",
+    "+1.5 FT %": "86%",
+    "+2.5 FT %": "68%",
+    "Ambas Marcam %": "68%",
+    "xG total": "3.50",
+    "casa": "31%",
+    "fora": "47%",
+    "Empate": "22%"
   },
   {
     "id": "s24m-19867648",
@@ -6258,20 +6146,6 @@
     "Empate": "25%"
   },
   {
-    "id": "s24m-19883636",
-    "data": "2026-09-20",
-    "horario": "18:30",
-    "Partida": "Técnico Universitario vs Delfin",
-    "+0.5 HT %": "67%",
-    "+1.5 FT %": "70%",
-    "+2.5 FT %": "44%",
-    "Ambas Marcam %": "48%",
-    "xG total": "2.45",
-    "casa": "24%",
-    "fora": "50%",
-    "Empate": "26%"
-  },
-  {
     "id": "s24m-19883604",
     "data": "2026-09-20",
     "horario": "23:30",
@@ -6290,14 +6164,28 @@
     "data": "2026-09-20",
     "horario": "00:00",
     "Partida": "Emelec vs Libertad",
-    "+0.5 HT %": "63%",
-    "+1.5 FT %": "62%",
-    "+2.5 FT %": "35%",
-    "Ambas Marcam %": "40%",
-    "xG total": "2.10",
+    "+0.5 HT %": "65%",
+    "+1.5 FT %": "66%",
+    "+2.5 FT %": "39%",
+    "Ambas Marcam %": "43%",
+    "xG total": "2.25",
     "casa": "23%",
-    "fora": "48%",
-    "Empate": "29%"
+    "fora": "50%",
+    "Empate": "27%"
+  },
+  {
+    "id": "s24m-19883636",
+    "data": "2026-09-20",
+    "horario": "18:30",
+    "Partida": "Técnico Universitario vs Delfin",
+    "+0.5 HT %": "67%",
+    "+1.5 FT %": "70%",
+    "+2.5 FT %": "44%",
+    "Ambas Marcam %": "48%",
+    "xG total": "2.45",
+    "casa": "24%",
+    "fora": "50%",
+    "Empate": "26%"
   },
   {
     "id": "s24m-19883630",
@@ -6342,20 +6230,6 @@
     "Empate": "30%"
   },
   {
-    "id": "s24m-19824955",
-    "data": "2026-09-20",
-    "horario": "13:00",
-    "Partida": "Virginia Water vs Metropolitan Police FC",
-    "+0.5 HT %": "36%",
-    "+1.5 FT %": "88%",
-    "+2.5 FT %": "71%",
-    "Ambas Marcam %": "70%",
-    "xG total": "3.65",
-    "casa": "40%",
-    "fora": "38%",
-    "Empate": "22%"
-  },
-  {
     "id": "s24m-19768470",
     "data": "2026-09-20",
     "horario": "23:30",
@@ -6384,18 +6258,18 @@
     "Empate": "23%"
   },
   {
-    "id": "s24m-19784304",
+    "id": "s24m-19824955",
     "data": "2026-09-20",
-    "horario": "11:00",
-    "Partida": "Durham W vs Nottingham Forest W",
-    "+0.5 HT %": "81%",
-    "+1.5 FT %": "78%",
-    "+2.5 FT %": "54%",
-    "Ambas Marcam %": "57%",
-    "xG total": "2.85",
-    "casa": "32%",
-    "fora": "43%",
-    "Empate": "25%"
+    "horario": "13:00",
+    "Partida": "Virginia Water vs Metropolitan Police FC",
+    "+0.5 HT %": "36%",
+    "+1.5 FT %": "88%",
+    "+2.5 FT %": "71%",
+    "Ambas Marcam %": "70%",
+    "xG total": "3.65",
+    "casa": "40%",
+    "fora": "38%",
+    "Empate": "22%"
   },
   {
     "id": "s24m-19809396",
@@ -6412,18 +6286,32 @@
     "Empate": "21%"
   },
   {
-    "id": "s24m-19784303",
+    "id": "s24m-19784301",
     "data": "2026-09-20",
     "horario": "13:00",
-    "Partida": "Newcastle United W vs Sheffield Utd W",
-    "+0.5 HT %": "67%",
-    "+1.5 FT %": "77%",
-    "+2.5 FT %": "53%",
-    "Ambas Marcam %": "50%",
-    "xG total": "2.80",
-    "casa": "61%",
-    "fora": "17%",
-    "Empate": "22%"
+    "Partida": "Watford W vs Bristol City W",
+    "+0.5 HT %": "87%",
+    "+1.5 FT %": "93%",
+    "+2.5 FT %": "81%",
+    "Ambas Marcam %": "70%",
+    "xG total": "4.35",
+    "casa": "71%",
+    "fora": "14%",
+    "Empate": "15%"
+  },
+  {
+    "id": "s24m-19784304",
+    "data": "2026-09-20",
+    "horario": "11:00",
+    "Partida": "Durham W vs Nottingham Forest W",
+    "+0.5 HT %": "81%",
+    "+1.5 FT %": "78%",
+    "+2.5 FT %": "54%",
+    "Ambas Marcam %": "57%",
+    "xG total": "2.85",
+    "casa": "32%",
+    "fora": "43%",
+    "Empate": "25%"
   },
   {
     "id": "s24m-19784302",
@@ -6440,18 +6328,18 @@
     "Empate": "26%"
   },
   {
-    "id": "s24m-19784301",
+    "id": "s24m-19784303",
     "data": "2026-09-20",
     "horario": "13:00",
-    "Partida": "Watford W vs Bristol City W",
-    "+0.5 HT %": "87%",
-    "+1.5 FT %": "93%",
-    "+2.5 FT %": "81%",
-    "Ambas Marcam %": "70%",
-    "xG total": "4.35",
-    "casa": "71%",
-    "fora": "14%",
-    "Empate": "15%"
+    "Partida": "Newcastle United W vs Sheffield Utd W",
+    "+0.5 HT %": "67%",
+    "+1.5 FT %": "77%",
+    "+2.5 FT %": "53%",
+    "Ambas Marcam %": "50%",
+    "xG total": "2.80",
+    "casa": "61%",
+    "fora": "17%",
+    "Empate": "22%"
   },
   {
     "id": "s24m-19784300",
@@ -6468,6 +6356,20 @@
     "Empate": "21%"
   },
   {
+    "id": "s24m-19759219",
+    "data": "2026-09-20",
+    "horario": "13:00",
+    "Partida": "West Bromwich Albion W vs Rugby Borough W",
+    "+0.5 HT %": "75%",
+    "+1.5 FT %": "83%",
+    "+2.5 FT %": "62%",
+    "Ambas Marcam %": "62%",
+    "xG total": "3.20",
+    "casa": "28%",
+    "fora": "49%",
+    "Empate": "23%"
+  },
+  {
     "id": "s24m-19759220",
     "data": "2026-09-20",
     "horario": "13:00",
@@ -6482,17 +6384,17 @@
     "Empate": "19%"
   },
   {
-    "id": "s24m-19759219",
+    "id": "s24m-19759221",
     "data": "2026-09-20",
     "horario": "13:00",
-    "Partida": "West Bromwich Albion W vs Rugby Borough W",
-    "+0.5 HT %": "75%",
+    "Partida": "Norwich City W vs Stoke City W",
+    "+0.5 HT %": "65%",
     "+1.5 FT %": "83%",
     "+2.5 FT %": "62%",
     "Ambas Marcam %": "62%",
     "xG total": "3.20",
-    "casa": "28%",
-    "fora": "49%",
+    "casa": "49%",
+    "fora": "28%",
     "Empate": "23%"
   },
   {
@@ -6524,18 +6426,18 @@
     "Empate": "14%"
   },
   {
-    "id": "s24m-19759221",
+    "id": "s24m-19759224",
     "data": "2026-09-20",
     "horario": "13:00",
-    "Partida": "Norwich City W vs Stoke City W",
-    "+0.5 HT %": "65%",
-    "+1.5 FT %": "83%",
-    "+2.5 FT %": "62%",
-    "Ambas Marcam %": "62%",
-    "xG total": "3.20",
-    "casa": "49%",
-    "fora": "28%",
-    "Empate": "23%"
+    "Partida": "Boldmere SM W vs Loughborough Lightning W",
+    "+0.5 HT %": "71%",
+    "+1.5 FT %": "90%",
+    "+2.5 FT %": "75%",
+    "Ambas Marcam %": "73%",
+    "xG total": "3.95",
+    "casa": "48%",
+    "fora": "31%",
+    "Empate": "21%"
   },
   {
     "id": "s24m-19840635",
@@ -6552,20 +6454,6 @@
     "Empate": "20%"
   },
   {
-    "id": "s24m-19759224",
-    "data": "2026-09-20",
-    "horario": "13:00",
-    "Partida": "Boldmere SM W vs Loughborough Lightning W",
-    "+0.5 HT %": "71%",
-    "+1.5 FT %": "90%",
-    "+2.5 FT %": "75%",
-    "Ambas Marcam %": "73%",
-    "xG total": "3.95",
-    "casa": "48%",
-    "fora": "31%",
-    "Empate": "21%"
-  },
-  {
     "id": "s24m-19840584",
     "data": "2026-09-20",
     "horario": "13:00",
@@ -6578,6 +6466,20 @@
     "casa": "42%",
     "fora": "35%",
     "Empate": "23%"
+  },
+  {
+    "id": "s24m-19840674",
+    "data": "2026-09-20",
+    "horario": "13:00",
+    "Partida": "Exeter City W vs AFC Bournemouth Ladies",
+    "+0.5 HT %": "70%",
+    "+1.5 FT %": "83%",
+    "+2.5 FT %": "62%",
+    "Ambas Marcam %": "59%",
+    "xG total": "3.20",
+    "casa": "19%",
+    "fora": "60%",
+    "Empate": "21%"
   },
   {
     "id": "s24m-19840687",
@@ -6608,18 +6510,18 @@
     "Empate": "13%"
   },
   {
-    "id": "s24m-19840674",
+    "id": "s24m-19840611",
     "data": "2026-09-20",
-    "horario": "13:00",
-    "Partida": "Exeter City W vs AFC Bournemouth Ladies",
-    "+0.5 HT %": "70%",
-    "+1.5 FT %": "83%",
-    "+2.5 FT %": "62%",
-    "Ambas Marcam %": "59%",
-    "xG total": "3.20",
-    "casa": "19%",
-    "fora": "60%",
-    "Empate": "21%"
+    "horario": "14:00",
+    "Partida": "Oxford United W vs Plymouth Argyle W",
+    "+0.5 HT %": "50%",
+    "+1.5 FT %": "84%",
+    "+2.5 FT %": "63%",
+    "Ambas Marcam %": "63%",
+    "xG total": "3.25",
+    "casa": "50%",
+    "fora": "27%",
+    "Empate": "23%"
   },
   {
     "id": "s24m-19836248",
@@ -6636,18 +6538,18 @@
     "Empate": "20%"
   },
   {
-    "id": "s24m-19840611",
+    "id": "s24m-19836251",
     "data": "2026-09-20",
-    "horario": "14:00",
-    "Partida": "Oxford United W vs Plymouth Argyle W",
-    "+0.5 HT %": "50%",
-    "+1.5 FT %": "84%",
-    "+2.5 FT %": "63%",
-    "Ambas Marcam %": "63%",
-    "xG total": "3.25",
-    "casa": "50%",
-    "fora": "27%",
-    "Empate": "23%"
+    "horario": "13:00",
+    "Partida": "Sheffield FC W vs Notts County W",
+    "+0.5 HT %": "65%",
+    "+1.5 FT %": "88%",
+    "+2.5 FT %": "71%",
+    "Ambas Marcam %": "70%",
+    "xG total": "3.65",
+    "casa": "40%",
+    "fora": "38%",
+    "Empate": "22%"
   },
   {
     "id": "s24m-19836250",
@@ -6678,20 +6580,6 @@
     "Empate": "21%"
   },
   {
-    "id": "s24m-19836251",
-    "data": "2026-09-20",
-    "horario": "13:00",
-    "Partida": "Sheffield FC W vs Notts County W",
-    "+0.5 HT %": "65%",
-    "+1.5 FT %": "88%",
-    "+2.5 FT %": "71%",
-    "Ambas Marcam %": "70%",
-    "xG total": "3.65",
-    "casa": "40%",
-    "fora": "38%",
-    "Empate": "22%"
-  },
-  {
     "id": "s24m-19836254",
     "data": "2026-09-20",
     "horario": "13:00",
@@ -6703,20 +6591,6 @@
     "xG total": "2.80",
     "casa": "68%",
     "fora": "13%",
-    "Empate": "19%"
-  },
-  {
-    "id": "s24m-19839004",
-    "data": "2026-09-20",
-    "horario": "13:00",
-    "Partida": "Stockport County W vs Chorley W",
-    "+0.5 HT %": "61%",
-    "+1.5 FT %": "85%",
-    "+2.5 FT %": "66%",
-    "Ambas Marcam %": "60%",
-    "xG total": "3.40",
-    "casa": "64%",
-    "fora": "17%",
     "Empate": "19%"
   },
   {
@@ -6732,6 +6606,20 @@
     "casa": "63%",
     "fora": "19%",
     "Empate": "18%"
+  },
+  {
+    "id": "s24m-19839004",
+    "data": "2026-09-20",
+    "horario": "13:00",
+    "Partida": "Stockport County W vs Chorley W",
+    "+0.5 HT %": "61%",
+    "+1.5 FT %": "85%",
+    "+2.5 FT %": "66%",
+    "Ambas Marcam %": "60%",
+    "xG total": "3.40",
+    "casa": "64%",
+    "fora": "17%",
+    "Empate": "19%"
   },
   {
     "id": "s24m-19839044",
@@ -6776,20 +6664,6 @@
     "Empate": "19%"
   },
   {
-    "id": "s24m-19758978",
-    "data": "2026-09-20",
-    "horario": "13:00",
-    "Partida": "Cambridge United W vs Milton Keynes Dons W",
-    "+0.5 HT %": "48%",
-    "+1.5 FT %": "82%",
-    "+2.5 FT %": "60%",
-    "Ambas Marcam %": "59%",
-    "xG total": "3.10",
-    "casa": "22%",
-    "fora": "56%",
-    "Empate": "22%"
-  },
-  {
     "id": "s24m-19758976",
     "data": "2026-09-20",
     "horario": "13:00",
@@ -6802,6 +6676,20 @@
     "casa": "20%",
     "fora": "59%",
     "Empate": "21%"
+  },
+  {
+    "id": "s24m-19758978",
+    "data": "2026-09-20",
+    "horario": "13:00",
+    "Partida": "Cambridge United W vs Milton Keynes Dons W",
+    "+0.5 HT %": "48%",
+    "+1.5 FT %": "82%",
+    "+2.5 FT %": "60%",
+    "Ambas Marcam %": "59%",
+    "xG total": "3.10",
+    "casa": "22%",
+    "fora": "56%",
+    "Empate": "22%"
   },
   {
     "id": "s24m-19758977",
@@ -6930,20 +6818,6 @@
     "Empate": "18%"
   },
   {
-    "id": "s24m-19668088",
-    "data": "2026-09-20",
-    "horario": "14:00",
-    "Partida": "Trans vs Levadia",
-    "+0.5 HT %": "85%",
-    "+1.5 FT %": "88%",
-    "+2.5 FT %": "71%",
-    "Ambas Marcam %": "60%",
-    "xG total": "3.65",
-    "casa": "13%",
-    "fora": "71%",
-    "Empate": "16%"
-  },
-  {
     "id": "s24m-19668089",
     "data": "2026-09-20",
     "horario": "11:30",
@@ -6970,6 +6844,20 @@
     "casa": "36%",
     "fora": "42%",
     "Empate": "22%"
+  },
+  {
+    "id": "s24m-19668088",
+    "data": "2026-09-20",
+    "horario": "14:00",
+    "Partida": "Trans vs Levadia",
+    "+0.5 HT %": "85%",
+    "+1.5 FT %": "88%",
+    "+2.5 FT %": "71%",
+    "Ambas Marcam %": "60%",
+    "xG total": "3.65",
+    "casa": "13%",
+    "fora": "71%",
+    "Empate": "16%"
   },
   {
     "id": "s24m-19737695",
@@ -7042,20 +6930,6 @@
     "Empate": "22%"
   },
   {
-    "id": "s24m-19806455",
-    "data": "2026-09-20",
-    "horario": "13:00",
-    "Partida": "VIFK W vs HJS W",
-    "+0.5 HT %": "82%",
-    "+1.5 FT %": "89%",
-    "+2.5 FT %": "72%",
-    "Ambas Marcam %": "65%",
-    "xG total": "3.75",
-    "casa": "17%",
-    "fora": "65%",
-    "Empate": "18%"
-  },
-  {
     "id": "s24m-19675225",
     "data": "2026-09-20",
     "horario": "14:00",
@@ -7068,6 +6942,20 @@
     "casa": "60%",
     "fora": "23%",
     "Empate": "17%"
+  },
+  {
+    "id": "s24m-19806455",
+    "data": "2026-09-20",
+    "horario": "13:00",
+    "Partida": "VIFK W vs HJS W",
+    "+0.5 HT %": "82%",
+    "+1.5 FT %": "89%",
+    "+2.5 FT %": "72%",
+    "Ambas Marcam %": "65%",
+    "xG total": "3.75",
+    "casa": "17%",
+    "fora": "65%",
+    "Empate": "18%"
   },
   {
     "id": "s24m-19806453",
@@ -7084,20 +6972,6 @@
     "Empate": "25%"
   },
   {
-    "id": "s24m-19812291",
-    "data": "2026-09-20",
-    "horario": "12:00",
-    "Partida": "KTP W vs PKKU W",
-    "+0.5 HT %": "81%",
-    "+1.5 FT %": "93%",
-    "+2.5 FT %": "80%",
-    "Ambas Marcam %": "76%",
-    "xG total": "4.30",
-    "casa": "24%",
-    "fora": "57%",
-    "Empate": "19%"
-  },
-  {
     "id": "s24m-19812301",
     "data": "2026-09-20",
     "horario": "09:00",
@@ -7112,18 +6986,18 @@
     "Empate": "16%"
   },
   {
-    "id": "s24m-19780073",
+    "id": "s24m-19812291",
     "data": "2026-09-20",
-    "horario": "09:00",
-    "Partida": "Clermont U17 vs Istres U17",
-    "+0.5 HT %": "15%",
-    "+1.5 FT %": "86%",
-    "+2.5 FT %": "67%",
-    "Ambas Marcam %": "67%",
-    "xG total": "3.45",
-    "casa": "48%",
-    "fora": "30%",
-    "Empate": "22%"
+    "horario": "12:00",
+    "Partida": "KTP W vs PKKU W",
+    "+0.5 HT %": "81%",
+    "+1.5 FT %": "93%",
+    "+2.5 FT %": "80%",
+    "Ambas Marcam %": "76%",
+    "xG total": "4.30",
+    "casa": "24%",
+    "fora": "57%",
+    "Empate": "19%"
   },
   {
     "id": "s24m-19880971",
@@ -7154,18 +7028,18 @@
     "Empate": "19%"
   },
   {
-    "id": "s24m-19773826",
+    "id": "s24m-19780073",
     "data": "2026-09-20",
-    "horario": "13:00",
-    "Partida": "Brétigny Foot U17 vs Paris FC U17",
+    "horario": "09:00",
+    "Partida": "Clermont U17 vs Istres U17",
     "+0.5 HT %": "15%",
-    "+1.5 FT %": "84%",
-    "+2.5 FT %": "63%",
-    "Ambas Marcam %": "64%",
-    "xG total": "3.25",
-    "casa": "39%",
-    "fora": "37%",
-    "Empate": "24%"
+    "+1.5 FT %": "86%",
+    "+2.5 FT %": "67%",
+    "Ambas Marcam %": "67%",
+    "xG total": "3.45",
+    "casa": "48%",
+    "fora": "30%",
+    "Empate": "22%"
   },
   {
     "id": "s24m-19780087",
@@ -7180,6 +7054,20 @@
     "casa": "50%",
     "fora": "29%",
     "Empate": "21%"
+  },
+  {
+    "id": "s24m-19773826",
+    "data": "2026-09-20",
+    "horario": "13:00",
+    "Partida": "Brétigny Foot U17 vs Paris FC U17",
+    "+0.5 HT %": "15%",
+    "+1.5 FT %": "84%",
+    "+2.5 FT %": "63%",
+    "Ambas Marcam %": "64%",
+    "xG total": "3.25",
+    "casa": "39%",
+    "fora": "37%",
+    "Empate": "24%"
   },
   {
     "id": "s24m-19773827",
@@ -7280,20 +7168,6 @@
     "Empate": "21%"
   },
   {
-    "id": "s24m-19780091",
-    "data": "2026-09-20",
-    "horario": "13:00",
-    "Partida": "Valenciennes U17 vs Dunkerque U17",
-    "+0.5 HT %": "15%",
-    "+1.5 FT %": "86%",
-    "+2.5 FT %": "67%",
-    "Ambas Marcam %": "66%",
-    "xG total": "3.45",
-    "casa": "50%",
-    "fora": "28%",
-    "Empate": "22%"
-  },
-  {
     "id": "s24m-19780090",
     "data": "2026-09-20",
     "horario": "13:00",
@@ -7306,6 +7180,20 @@
     "casa": "50%",
     "fora": "29%",
     "Empate": "21%"
+  },
+  {
+    "id": "s24m-19780091",
+    "data": "2026-09-20",
+    "horario": "13:00",
+    "Partida": "Valenciennes U17 vs Dunkerque U17",
+    "+0.5 HT %": "15%",
+    "+1.5 FT %": "86%",
+    "+2.5 FT %": "67%",
+    "Ambas Marcam %": "66%",
+    "xG total": "3.45",
+    "casa": "50%",
+    "fora": "28%",
+    "Empate": "22%"
   },
   {
     "id": "s24m-19780092",
@@ -7322,20 +7210,6 @@
     "Empate": "23%"
   },
   {
-    "id": "s24m-19780095",
-    "data": "2026-09-20",
-    "horario": "13:00",
-    "Partida": "Thionville Lusitanos U17 vs Lens U17",
-    "+0.5 HT %": "15%",
-    "+1.5 FT %": "83%",
-    "+2.5 FT %": "62%",
-    "Ambas Marcam %": "52%",
-    "xG total": "3.20",
-    "casa": "12%",
-    "fora": "71%",
-    "Empate": "17%"
-  },
-  {
     "id": "s24m-19780094",
     "data": "2026-09-20",
     "horario": "13:00",
@@ -7348,6 +7222,20 @@
     "casa": "34%",
     "fora": "41%",
     "Empate": "25%"
+  },
+  {
+    "id": "s24m-19780095",
+    "data": "2026-09-20",
+    "horario": "13:00",
+    "Partida": "Thionville Lusitanos U17 vs Lens U17",
+    "+0.5 HT %": "15%",
+    "+1.5 FT %": "83%",
+    "+2.5 FT %": "62%",
+    "Ambas Marcam %": "52%",
+    "xG total": "3.20",
+    "casa": "12%",
+    "fora": "71%",
+    "Empate": "17%"
   },
   {
     "id": "s24m-19780096",
@@ -7378,20 +7266,6 @@
     "Empate": "23%"
   },
   {
-    "id": "s24m-19780103",
-    "data": "2026-09-20",
-    "horario": "13:00",
-    "Partida": "Rodez U17 vs UJS Toulouse U17",
-    "+0.5 HT %": "15%",
-    "+1.5 FT %": "81%",
-    "+2.5 FT %": "59%",
-    "Ambas Marcam %": "61%",
-    "xG total": "3.05",
-    "casa": "33%",
-    "fora": "44%",
-    "Empate": "23%"
-  },
-  {
     "id": "s24m-19780101",
     "data": "2026-09-20",
     "horario": "13:00",
@@ -7404,6 +7278,20 @@
     "casa": "55%",
     "fora": "24%",
     "Empate": "21%"
+  },
+  {
+    "id": "s24m-19780103",
+    "data": "2026-09-20",
+    "horario": "13:00",
+    "Partida": "Rodez U17 vs UJS Toulouse U17",
+    "+0.5 HT %": "15%",
+    "+1.5 FT %": "81%",
+    "+2.5 FT %": "59%",
+    "Ambas Marcam %": "61%",
+    "xG total": "3.05",
+    "casa": "33%",
+    "fora": "44%",
+    "Empate": "23%"
   },
   {
     "id": "s24m-19774725",
@@ -7504,20 +7392,6 @@
     "Empate": "18%"
   },
   {
-    "id": "s24m-19774732",
-    "data": "2026-09-20",
-    "horario": "13:00",
-    "Partida": "Lorient U19 vs Angers U19",
-    "+0.5 HT %": "86%",
-    "+1.5 FT %": "93%",
-    "+2.5 FT %": "81%",
-    "Ambas Marcam %": "75%",
-    "xG total": "4.40",
-    "casa": "20%",
-    "fora": "63%",
-    "Empate": "17%"
-  },
-  {
     "id": "s24m-19774731",
     "data": "2026-09-20",
     "horario": "13:00",
@@ -7530,6 +7404,20 @@
     "casa": "31%",
     "fora": "48%",
     "Empate": "21%"
+  },
+  {
+    "id": "s24m-19774732",
+    "data": "2026-09-20",
+    "horario": "13:00",
+    "Partida": "Lorient U19 vs Angers U19",
+    "+0.5 HT %": "86%",
+    "+1.5 FT %": "93%",
+    "+2.5 FT %": "81%",
+    "Ambas Marcam %": "75%",
+    "xG total": "4.40",
+    "casa": "20%",
+    "fora": "63%",
+    "Empate": "17%"
   },
   {
     "id": "s24m-19774734",
@@ -7588,20 +7476,6 @@
     "Empate": "19%"
   },
   {
-    "id": "s24m-19774745",
-    "data": "2026-09-20",
-    "horario": "13:00",
-    "Partida": "Lille U19 vs Valenciennes U19",
-    "+0.5 HT %": "71%",
-    "+1.5 FT %": "87%",
-    "+2.5 FT %": "69%",
-    "Ambas Marcam %": "69%",
-    "xG total": "3.55",
-    "casa": "42%",
-    "fora": "36%",
-    "Empate": "22%"
-  },
-  {
     "id": "s24m-19774743",
     "data": "2026-09-20",
     "horario": "13:00",
@@ -7630,6 +7504,20 @@
     "Empate": "24%"
   },
   {
+    "id": "s24m-19774745",
+    "data": "2026-09-20",
+    "horario": "13:00",
+    "Partida": "Lille U19 vs Valenciennes U19",
+    "+0.5 HT %": "71%",
+    "+1.5 FT %": "87%",
+    "+2.5 FT %": "69%",
+    "Ambas Marcam %": "69%",
+    "xG total": "3.55",
+    "casa": "42%",
+    "fora": "36%",
+    "Empate": "22%"
+  },
+  {
     "id": "s24m-19738672",
     "data": "2026-09-20",
     "horario": "11:00",
@@ -7644,20 +7532,6 @@
     "Empate": "24%"
   },
   {
-    "id": "s24m-19836385",
-    "data": "2026-09-20",
-    "horario": "13:00",
-    "Partida": "Panazol vs Challans",
-    "+0.5 HT %": "70%",
-    "+1.5 FT %": "80%",
-    "+2.5 FT %": "58%",
-    "Ambas Marcam %": "59%",
-    "xG total": "3.00",
-    "casa": "27%",
-    "fora": "49%",
-    "Empate": "24%"
-  },
-  {
     "id": "s24m-19738673",
     "data": "2026-09-20",
     "horario": "13:00",
@@ -7669,6 +7543,20 @@
     "xG total": "3.10",
     "casa": "34%",
     "fora": "42%",
+    "Empate": "24%"
+  },
+  {
+    "id": "s24m-19836385",
+    "data": "2026-09-20",
+    "horario": "13:00",
+    "Partida": "Panazol vs Challans",
+    "+0.5 HT %": "70%",
+    "+1.5 FT %": "80%",
+    "+2.5 FT %": "58%",
+    "Ambas Marcam %": "59%",
+    "xG total": "3.00",
+    "casa": "27%",
+    "fora": "49%",
     "Empate": "24%"
   },
   {
@@ -7700,20 +7588,6 @@
     "Empate": "26%"
   },
   {
-    "id": "s24m-19650397",
-    "data": "2026-09-20",
-    "horario": "16:00",
-    "Partida": "Dinamo Batumi vs Torpedo Kutaisi",
-    "+0.5 HT %": "83%",
-    "+1.5 FT %": "86%",
-    "+2.5 FT %": "67%",
-    "Ambas Marcam %": "65%",
-    "xG total": "3.45",
-    "casa": "55%",
-    "fora": "24%",
-    "Empate": "21%"
-  },
-  {
     "id": "s24m-19650218",
     "data": "2026-09-20",
     "horario": "12:00",
@@ -7726,6 +7600,20 @@
     "casa": "31%",
     "fora": "41%",
     "Empate": "28%"
+  },
+  {
+    "id": "s24m-19650397",
+    "data": "2026-09-20",
+    "horario": "16:00",
+    "Partida": "Dinamo Batumi vs Torpedo Kutaisi",
+    "+0.5 HT %": "83%",
+    "+1.5 FT %": "86%",
+    "+2.5 FT %": "67%",
+    "Ambas Marcam %": "65%",
+    "xG total": "3.45",
+    "casa": "55%",
+    "fora": "24%",
+    "Empate": "21%"
   },
   {
     "id": "s24m-19650217",
@@ -7770,20 +7658,6 @@
     "Empate": "22%"
   },
   {
-    "id": "s24m-19880677",
-    "data": "2026-09-20",
-    "horario": "12:00",
-    "Partida": "Batumi W vs Lanchkhuti",
-    "+0.5 HT %": "15%",
-    "+1.5 FT %": "96%",
-    "+2.5 FT %": "87%",
-    "Ambas Marcam %": "67%",
-    "xG total": "4.95",
-    "casa": "7%",
-    "fora": "84%",
-    "Empate": "9%"
-  },
-  {
     "id": "s24m-19650220",
     "data": "2026-09-20",
     "horario": "16:00",
@@ -7796,6 +7670,20 @@
     "casa": "48%",
     "fora": "29%",
     "Empate": "23%"
+  },
+  {
+    "id": "s24m-19880677",
+    "data": "2026-09-20",
+    "horario": "12:00",
+    "Partida": "Batumi W vs Lanchkhuti",
+    "+0.5 HT %": "15%",
+    "+1.5 FT %": "96%",
+    "+2.5 FT %": "87%",
+    "Ambas Marcam %": "67%",
+    "xG total": "4.95",
+    "casa": "7%",
+    "fora": "84%",
+    "Empate": "9%"
   },
   {
     "id": "s24m-19880702",
@@ -7812,20 +7700,6 @@
     "Empate": "24%"
   },
   {
-    "id": "s24m-19880712",
-    "data": "2026-09-20",
-    "horario": "12:00",
-    "Partida": "Martve Kutaisi W vs Dinamo Sukhumi W",
-    "+0.5 HT %": "15%",
-    "+1.5 FT %": "85%",
-    "+2.5 FT %": "65%",
-    "Ambas Marcam %": "65%",
-    "xG total": "3.35",
-    "casa": "50%",
-    "fora": "28%",
-    "Empate": "22%"
-  },
-  {
     "id": "s24m-19880690",
     "data": "2026-09-20",
     "horario": "12:00",
@@ -7838,6 +7712,20 @@
     "casa": "10%",
     "fora": "77%",
     "Empate": "13%"
+  },
+  {
+    "id": "s24m-19880712",
+    "data": "2026-09-20",
+    "horario": "12:00",
+    "Partida": "Martve Kutaisi W vs Dinamo Sukhumi W",
+    "+0.5 HT %": "15%",
+    "+1.5 FT %": "85%",
+    "+2.5 FT %": "65%",
+    "Ambas Marcam %": "65%",
+    "xG total": "3.35",
+    "casa": "50%",
+    "fora": "28%",
+    "Empate": "22%"
   },
   {
     "id": "s24m-19880721",
@@ -7910,6 +7798,20 @@
     "Empate": "22%"
   },
   {
+    "id": "s24m-19747182",
+    "data": "2026-09-20",
+    "horario": "12:00",
+    "Partida": "Bochum W vs Köln II W",
+    "+0.5 HT %": "68%",
+    "+1.5 FT %": "91%",
+    "+2.5 FT %": "76%",
+    "Ambas Marcam %": "74%",
+    "xG total": "4.00",
+    "casa": "51%",
+    "fora": "29%",
+    "Empate": "20%"
+  },
+  {
     "id": "s24m-19747184",
     "data": "2026-09-20",
     "horario": "12:00",
@@ -7938,20 +7840,6 @@
     "Empate": "22%"
   },
   {
-    "id": "s24m-19747182",
-    "data": "2026-09-20",
-    "horario": "12:00",
-    "Partida": "Bochum W vs Köln II W",
-    "+0.5 HT %": "68%",
-    "+1.5 FT %": "91%",
-    "+2.5 FT %": "76%",
-    "Ambas Marcam %": "74%",
-    "xG total": "4.00",
-    "casa": "51%",
-    "fora": "29%",
-    "Empate": "20%"
-  },
-  {
     "id": "s24m-19744590",
     "data": "2026-09-20",
     "horario": "14:30",
@@ -7964,6 +7852,20 @@
     "casa": "28%",
     "fora": "49%",
     "Empate": "23%"
+  },
+  {
+    "id": "s24m-19880160",
+    "data": "2026-09-20",
+    "horario": "09:00",
+    "Partida": "Karlsruher U19 vs Hoffenheim U19",
+    "+0.5 HT %": "78%",
+    "+1.5 FT %": "90%",
+    "+2.5 FT %": "74%",
+    "Ambas Marcam %": "66%",
+    "xG total": "3.85",
+    "casa": "16%",
+    "fora": "66%",
+    "Empate": "18%"
   },
   {
     "id": "s24m-19744591",
@@ -7994,20 +7896,6 @@
     "Empate": "18%"
   },
   {
-    "id": "s24m-19880162",
-    "data": "2026-09-20",
-    "horario": "09:00",
-    "Partida": "Heidenheim U19 vs Borussia Mönchengladbach U19",
-    "+0.5 HT %": "83%",
-    "+1.5 FT %": "91%",
-    "+2.5 FT %": "76%",
-    "Ambas Marcam %": "74%",
-    "xG total": "4.00",
-    "casa": "46%",
-    "fora": "34%",
-    "Empate": "20%"
-  },
-  {
     "id": "s24m-19880161",
     "data": "2026-09-20",
     "horario": "09:00",
@@ -8022,46 +7910,18 @@
     "Empate": "20%"
   },
   {
-    "id": "s24m-19880160",
+    "id": "s24m-19880162",
     "data": "2026-09-20",
     "horario": "09:00",
-    "Partida": "Karlsruher U19 vs Hoffenheim U19",
-    "+0.5 HT %": "78%",
-    "+1.5 FT %": "90%",
-    "+2.5 FT %": "74%",
-    "Ambas Marcam %": "66%",
-    "xG total": "3.85",
-    "casa": "16%",
-    "fora": "66%",
-    "Empate": "18%"
-  },
-  {
-    "id": "s24m-19763681",
-    "data": "2026-09-20",
-    "horario": "12:00",
-    "Partida": "Hamburger SV W vs Nürnberg W",
-    "+0.5 HT %": "61%",
-    "+1.5 FT %": "84%",
-    "+2.5 FT %": "64%",
-    "Ambas Marcam %": "64%",
-    "xG total": "3.30",
-    "casa": "27%",
-    "fora": "51%",
-    "Empate": "22%"
-  },
-  {
-    "id": "s24m-19763682",
-    "data": "2026-09-20",
-    "horario": "14:00",
-    "Partida": "Freiburg W vs Bayer Leverkusen W",
-    "+0.5 HT %": "80%",
-    "+1.5 FT %": "90%",
-    "+2.5 FT %": "74%",
-    "Ambas Marcam %": "73%",
-    "xG total": "3.85",
-    "casa": "35%",
-    "fora": "44%",
-    "Empate": "21%"
+    "Partida": "Heidenheim U19 vs Borussia Mönchengladbach U19",
+    "+0.5 HT %": "83%",
+    "+1.5 FT %": "91%",
+    "+2.5 FT %": "76%",
+    "Ambas Marcam %": "74%",
+    "xG total": "4.00",
+    "casa": "46%",
+    "fora": "34%",
+    "Empate": "20%"
   },
   {
     "id": "s24m-19880158",
@@ -8092,6 +7952,34 @@
     "Empate": "22%"
   },
   {
+    "id": "s24m-19763681",
+    "data": "2026-09-20",
+    "horario": "12:00",
+    "Partida": "Hamburger SV W vs Nürnberg W",
+    "+0.5 HT %": "61%",
+    "+1.5 FT %": "84%",
+    "+2.5 FT %": "64%",
+    "Ambas Marcam %": "64%",
+    "xG total": "3.30",
+    "casa": "27%",
+    "fora": "51%",
+    "Empate": "22%"
+  },
+  {
+    "id": "s24m-19763682",
+    "data": "2026-09-20",
+    "horario": "14:00",
+    "Partida": "Freiburg W vs Bayer Leverkusen W",
+    "+0.5 HT %": "80%",
+    "+1.5 FT %": "90%",
+    "+2.5 FT %": "74%",
+    "Ambas Marcam %": "73%",
+    "xG total": "3.85",
+    "casa": "35%",
+    "fora": "44%",
+    "Empate": "21%"
+  },
+  {
     "id": "s24m-19751005",
     "data": "2026-09-20",
     "horario": "13:00",
@@ -8104,34 +7992,6 @@
     "casa": "34%",
     "fora": "42%",
     "Empate": "24%"
-  },
-  {
-    "id": "s24m-19793338",
-    "data": "2026-09-20",
-    "horario": "12:00",
-    "Partida": "Hemelingen vs Eiche Horn",
-    "+0.5 HT %": "88%",
-    "+1.5 FT %": "92%",
-    "+2.5 FT %": "79%",
-    "Ambas Marcam %": "74%",
-    "xG total": "4.20",
-    "casa": "57%",
-    "fora": "24%",
-    "Empate": "19%"
-  },
-  {
-    "id": "s24m-19793339",
-    "data": "2026-09-20",
-    "horario": "11:00",
-    "Partida": "Schwachhausen vs BTS Neustadt",
-    "+0.5 HT %": "77%",
-    "+1.5 FT %": "94%",
-    "+2.5 FT %": "83%",
-    "Ambas Marcam %": "80%",
-    "xG total": "4.50",
-    "casa": "37%",
-    "fora": "44%",
-    "Empate": "19%"
   },
   {
     "id": "s24m-19751288",
@@ -8148,18 +8008,46 @@
     "Empate": "21%"
   },
   {
-    "id": "s24m-19752007",
+    "id": "s24m-19793339",
     "data": "2026-09-20",
-    "horario": "10:30",
-    "Partida": "HT16 vs TSV Sasel",
-    "+0.5 HT %": "84%",
-    "+1.5 FT %": "95%",
-    "+2.5 FT %": "85%",
+    "horario": "11:00",
+    "Partida": "Schwachhausen vs BTS Neustadt",
+    "+0.5 HT %": "77%",
+    "+1.5 FT %": "94%",
+    "+2.5 FT %": "83%",
     "Ambas Marcam %": "80%",
-    "xG total": "4.70",
-    "casa": "55%",
-    "fora": "27%",
-    "Empate": "18%"
+    "xG total": "4.50",
+    "casa": "37%",
+    "fora": "44%",
+    "Empate": "19%"
+  },
+  {
+    "id": "s24m-19793338",
+    "data": "2026-09-20",
+    "horario": "12:00",
+    "Partida": "Hemelingen vs Eiche Horn",
+    "+0.5 HT %": "88%",
+    "+1.5 FT %": "92%",
+    "+2.5 FT %": "79%",
+    "Ambas Marcam %": "74%",
+    "xG total": "4.20",
+    "casa": "57%",
+    "fora": "24%",
+    "Empate": "19%"
+  },
+  {
+    "id": "s24m-19793337",
+    "data": "2026-09-20",
+    "horario": "13:00",
+    "Partida": "Grohn vs Werder Bremen III",
+    "+0.5 HT %": "83%",
+    "+1.5 FT %": "98%",
+    "+2.5 FT %": "94%",
+    "Ambas Marcam %": "88%",
+    "xG total": "6.05",
+    "casa": "63%",
+    "fora": "22%",
+    "Empate": "15%"
   },
   {
     "id": "s24m-19752009",
@@ -8176,18 +8064,18 @@
     "Empate": "22%"
   },
   {
-    "id": "s24m-19793337",
+    "id": "s24m-19752007",
     "data": "2026-09-20",
-    "horario": "13:00",
-    "Partida": "Grohn vs Werder Bremen III",
-    "+0.5 HT %": "83%",
-    "+1.5 FT %": "98%",
-    "+2.5 FT %": "94%",
-    "Ambas Marcam %": "88%",
-    "xG total": "6.05",
-    "casa": "63%",
-    "fora": "22%",
-    "Empate": "15%"
+    "horario": "10:30",
+    "Partida": "HT16 vs TSV Sasel",
+    "+0.5 HT %": "84%",
+    "+1.5 FT %": "95%",
+    "+2.5 FT %": "85%",
+    "Ambas Marcam %": "80%",
+    "xG total": "4.70",
+    "casa": "55%",
+    "fora": "27%",
+    "Empate": "18%"
   },
   {
     "id": "s24m-19752005",
@@ -8232,20 +8120,6 @@
     "Empate": "19%"
   },
   {
-    "id": "s24m-19793911",
-    "data": "2026-09-20",
-    "horario": "13:00",
-    "Partida": "Hennef 05 vs FC Wegberg-Beeck",
-    "+0.5 HT %": "79%",
-    "+1.5 FT %": "85%",
-    "+2.5 FT %": "66%",
-    "Ambas Marcam %": "65%",
-    "xG total": "3.40",
-    "casa": "27%",
-    "fora": "51%",
-    "Empate": "22%"
-  },
-  {
     "id": "s24m-19752265",
     "data": "2026-09-20",
     "horario": "15:00",
@@ -8260,18 +8134,18 @@
     "Empate": "21%"
   },
   {
-    "id": "s24m-19793912",
+    "id": "s24m-19793911",
     "data": "2026-09-20",
     "horario": "13:00",
-    "Partida": "Düren Merzenich vs Eintracht Hohkeppel",
-    "+0.5 HT %": "87%",
-    "+1.5 FT %": "89%",
-    "+2.5 FT %": "72%",
-    "Ambas Marcam %": "67%",
-    "xG total": "3.75",
-    "casa": "20%",
-    "fora": "61%",
-    "Empate": "19%"
+    "Partida": "Hennef 05 vs FC Wegberg-Beeck",
+    "+0.5 HT %": "79%",
+    "+1.5 FT %": "85%",
+    "+2.5 FT %": "66%",
+    "Ambas Marcam %": "65%",
+    "xG total": "3.40",
+    "casa": "27%",
+    "fora": "51%",
+    "Empate": "22%"
   },
   {
     "id": "s24m-19793913",
@@ -8286,6 +8160,20 @@
     "casa": "20%",
     "fora": "65%",
     "Empate": "15%"
+  },
+  {
+    "id": "s24m-19793912",
+    "data": "2026-09-20",
+    "horario": "13:00",
+    "Partida": "Düren Merzenich vs Eintracht Hohkeppel",
+    "+0.5 HT %": "87%",
+    "+1.5 FT %": "89%",
+    "+2.5 FT %": "72%",
+    "Ambas Marcam %": "67%",
+    "xG total": "3.75",
+    "casa": "20%",
+    "fora": "61%",
+    "Empate": "19%"
   },
   {
     "id": "s24m-19793914",
@@ -8316,20 +8204,6 @@
     "Empate": "19%"
   },
   {
-    "id": "s24m-19793910",
-    "data": "2026-09-20",
-    "horario": "13:30",
-    "Partida": "Chlodwig Zülpich vs VfL Vichttal",
-    "+0.5 HT %": "94%",
-    "+1.5 FT %": "97%",
-    "+2.5 FT %": "90%",
-    "Ambas Marcam %": "86%",
-    "xG total": "5.35",
-    "casa": "47%",
-    "fora": "35%",
-    "Empate": "18%"
-  },
-  {
     "id": "s24m-19793909",
     "data": "2026-09-20",
     "horario": "13:30",
@@ -8342,6 +8216,20 @@
     "casa": "24%",
     "fora": "59%",
     "Empate": "17%"
+  },
+  {
+    "id": "s24m-19793910",
+    "data": "2026-09-20",
+    "horario": "13:30",
+    "Partida": "Chlodwig Zülpich vs VfL Vichttal",
+    "+0.5 HT %": "94%",
+    "+1.5 FT %": "97%",
+    "+2.5 FT %": "90%",
+    "Ambas Marcam %": "86%",
+    "xG total": "5.35",
+    "casa": "47%",
+    "fora": "35%",
+    "Empate": "18%"
   },
   {
     "id": "s24m-19793907",
@@ -8400,20 +8288,6 @@
     "Empate": "22%"
   },
   {
-    "id": "s24m-19794123",
-    "data": "2026-09-20",
-    "horario": "13:00",
-    "Partida": "Vorsfelde vs LSK Hansa",
-    "+0.5 HT %": "65%",
-    "+1.5 FT %": "88%",
-    "+2.5 FT %": "71%",
-    "Ambas Marcam %": "69%",
-    "xG total": "3.65",
-    "casa": "27%",
-    "fora": "53%",
-    "Empate": "20%"
-  },
-  {
     "id": "s24m-19793667",
     "data": "2026-09-20",
     "horario": "13:30",
@@ -8426,6 +8300,20 @@
     "casa": "44%",
     "fora": "34%",
     "Empate": "22%"
+  },
+  {
+    "id": "s24m-19794123",
+    "data": "2026-09-20",
+    "horario": "13:00",
+    "Partida": "Vorsfelde vs LSK Hansa",
+    "+0.5 HT %": "65%",
+    "+1.5 FT %": "88%",
+    "+2.5 FT %": "71%",
+    "Ambas Marcam %": "69%",
+    "xG total": "3.65",
+    "casa": "27%",
+    "fora": "53%",
+    "Empate": "20%"
   },
   {
     "id": "s24m-19794124",
@@ -8484,20 +8372,6 @@
     "Empate": "19%"
   },
   {
-    "id": "s24m-19752521",
-    "data": "2026-09-20",
-    "horario": "12:00",
-    "Partida": "Sparta Lichtenberg vs Neustrelitz",
-    "+0.5 HT %": "89%",
-    "+1.5 FT %": "94%",
-    "+2.5 FT %": "82%",
-    "Ambas Marcam %": "79%",
-    "xG total": "4.45",
-    "casa": "49%",
-    "fora": "32%",
-    "Empate": "19%"
-  },
-  {
     "id": "s24m-19794126",
     "data": "2026-09-20",
     "horario": "14:00",
@@ -8526,6 +8400,20 @@
     "Empate": "21%"
   },
   {
+    "id": "s24m-19752521",
+    "data": "2026-09-20",
+    "horario": "12:00",
+    "Partida": "Sparta Lichtenberg vs Neustrelitz",
+    "+0.5 HT %": "89%",
+    "+1.5 FT %": "94%",
+    "+2.5 FT %": "82%",
+    "Ambas Marcam %": "79%",
+    "xG total": "4.45",
+    "casa": "49%",
+    "fora": "32%",
+    "Empate": "19%"
+  },
+  {
     "id": "s24m-19752525",
     "data": "2026-09-20",
     "horario": "12:00",
@@ -8540,20 +8428,6 @@
     "Empate": "23%"
   },
   {
-    "id": "s24m-19752747",
-    "data": "2026-09-20",
-    "horario": "12:00",
-    "Partida": "Eilenburg vs Einheit Rudolstadt",
-    "+0.5 HT %": "85%",
-    "+1.5 FT %": "90%",
-    "+2.5 FT %": "75%",
-    "Ambas Marcam %": "73%",
-    "xG total": "3.90",
-    "casa": "36%",
-    "fora": "43%",
-    "Empate": "21%"
-  },
-  {
     "id": "s24m-19752745",
     "data": "2026-09-20",
     "horario": "12:00",
@@ -8566,6 +8440,20 @@
     "casa": "71%",
     "fora": "13%",
     "Empate": "16%"
+  },
+  {
+    "id": "s24m-19752747",
+    "data": "2026-09-20",
+    "horario": "12:00",
+    "Partida": "Eilenburg vs Einheit Rudolstadt",
+    "+0.5 HT %": "85%",
+    "+1.5 FT %": "90%",
+    "+2.5 FT %": "75%",
+    "Ambas Marcam %": "73%",
+    "xG total": "3.90",
+    "casa": "36%",
+    "fora": "43%",
+    "Empate": "21%"
   },
   {
     "id": "s24m-19752748",
@@ -8610,20 +8498,6 @@
     "Empate": "19%"
   },
   {
-    "id": "s24m-19765968",
-    "data": "2026-09-20",
-    "horario": "13:00",
-    "Partida": "Hertha Wiesbach vs Wormatia Worms",
-    "+0.5 HT %": "89%",
-    "+1.5 FT %": "95%",
-    "+2.5 FT %": "84%",
-    "Ambas Marcam %": "81%",
-    "xG total": "4.65",
-    "casa": "38%",
-    "fora": "43%",
-    "Empate": "19%"
-  },
-  {
     "id": "s24m-19765964",
     "data": "2026-09-20",
     "horario": "13:00",
@@ -8650,6 +8524,20 @@
     "casa": "58%",
     "fora": "24%",
     "Empate": "18%"
+  },
+  {
+    "id": "s24m-19765968",
+    "data": "2026-09-20",
+    "horario": "13:00",
+    "Partida": "Hertha Wiesbach vs Wormatia Worms",
+    "+0.5 HT %": "89%",
+    "+1.5 FT %": "95%",
+    "+2.5 FT %": "84%",
+    "Ambas Marcam %": "81%",
+    "xG total": "4.65",
+    "casa": "38%",
+    "fora": "43%",
+    "Empate": "19%"
   },
   {
     "id": "s24m-19794425",
@@ -8680,20 +8568,6 @@
     "Empate": "22%"
   },
   {
-    "id": "s24m-19794429",
-    "data": "2026-09-20",
-    "horario": "13:00",
-    "Partida": "RW Maaslingen vs Sprockhövel",
-    "+0.5 HT %": "73%",
-    "+1.5 FT %": "90%",
-    "+2.5 FT %": "75%",
-    "Ambas Marcam %": "73%",
-    "xG total": "3.90",
-    "casa": "43%",
-    "fora": "36%",
-    "Empate": "21%"
-  },
-  {
     "id": "s24m-19794428",
     "data": "2026-09-20",
     "horario": "13:00",
@@ -8706,6 +8580,20 @@
     "casa": "38%",
     "fora": "40%",
     "Empate": "22%"
+  },
+  {
+    "id": "s24m-19794429",
+    "data": "2026-09-20",
+    "horario": "13:00",
+    "Partida": "RW Maaslingen vs Sprockhövel",
+    "+0.5 HT %": "73%",
+    "+1.5 FT %": "90%",
+    "+2.5 FT %": "75%",
+    "Ambas Marcam %": "73%",
+    "xG total": "3.90",
+    "casa": "43%",
+    "fora": "36%",
+    "Empate": "21%"
   },
   {
     "id": "s24m-19794422",
@@ -8722,18 +8610,18 @@
     "Empate": "22%"
   },
   {
-    "id": "s24m-19841307",
+    "id": "s24m-19794423",
     "data": "2026-09-20",
-    "horario": "11:30",
-    "Partida": "St. Pauli W vs Hannover 96 W",
+    "horario": "13:30",
+    "Partida": "Hordel vs Hiltrup",
     "+0.5 HT %": "68%",
-    "+1.5 FT %": "90%",
-    "+2.5 FT %": "75%",
-    "Ambas Marcam %": "74%",
-    "xG total": "3.95",
-    "casa": "39%",
-    "fora": "41%",
-    "Empate": "20%"
+    "+1.5 FT %": "83%",
+    "+2.5 FT %": "62%",
+    "Ambas Marcam %": "62%",
+    "xG total": "3.20",
+    "casa": "51%",
+    "fora": "26%",
+    "Empate": "23%"
   },
   {
     "id": "s24m-19841352",
@@ -8750,18 +8638,18 @@
     "Empate": "20%"
   },
   {
-    "id": "s24m-19794423",
+    "id": "s24m-19841307",
     "data": "2026-09-20",
-    "horario": "13:30",
-    "Partida": "Hordel vs Hiltrup",
+    "horario": "11:30",
+    "Partida": "St. Pauli W vs Hannover 96 W",
     "+0.5 HT %": "68%",
-    "+1.5 FT %": "83%",
-    "+2.5 FT %": "62%",
-    "Ambas Marcam %": "62%",
-    "xG total": "3.20",
-    "casa": "51%",
-    "fora": "26%",
-    "Empate": "23%"
+    "+1.5 FT %": "90%",
+    "+2.5 FT %": "75%",
+    "Ambas Marcam %": "74%",
+    "xG total": "3.95",
+    "casa": "39%",
+    "fora": "41%",
+    "Empate": "20%"
   },
   {
     "id": "s24m-19841290",
@@ -8792,20 +8680,6 @@
     "Empate": "17%"
   },
   {
-    "id": "s24m-19842501",
-    "data": "2026-09-20",
-    "horario": "12:00",
-    "Partida": "FFV Erfurt W vs Hohen Neuendorf W",
-    "+0.5 HT %": "15%",
-    "+1.5 FT %": "83%",
-    "+2.5 FT %": "62%",
-    "Ambas Marcam %": "63%",
-    "xG total": "3.20",
-    "casa": "45%",
-    "fora": "32%",
-    "Empate": "23%"
-  },
-  {
     "id": "s24m-19842463",
     "data": "2026-09-20",
     "horario": "12:00",
@@ -8818,6 +8692,20 @@
     "casa": "6%",
     "fora": "85%",
     "Empate": "9%"
+  },
+  {
+    "id": "s24m-19842501",
+    "data": "2026-09-20",
+    "horario": "12:00",
+    "Partida": "FFV Erfurt W vs Hohen Neuendorf W",
+    "+0.5 HT %": "15%",
+    "+1.5 FT %": "83%",
+    "+2.5 FT %": "62%",
+    "Ambas Marcam %": "63%",
+    "xG total": "3.20",
+    "casa": "45%",
+    "fora": "32%",
+    "Empate": "23%"
   },
   {
     "id": "s24m-19842520",
@@ -8862,20 +8750,6 @@
     "Empate": "20%"
   },
   {
-    "id": "s24m-19842087",
-    "data": "2026-09-20",
-    "horario": "12:00",
-    "Partida": "Kassel W vs Greuther Fürth W",
-    "+0.5 HT %": "15%",
-    "+1.5 FT %": "92%",
-    "+2.5 FT %": "79%",
-    "Ambas Marcam %": "74%",
-    "xG total": "4.20",
-    "casa": "24%",
-    "fora": "57%",
-    "Empate": "19%"
-  },
-  {
     "id": "s24m-19842103",
     "data": "2026-09-20",
     "horario": "12:00",
@@ -8888,6 +8762,20 @@
     "casa": "55%",
     "fora": "25%",
     "Empate": "20%"
+  },
+  {
+    "id": "s24m-19842087",
+    "data": "2026-09-20",
+    "horario": "12:00",
+    "Partida": "Kassel W vs Greuther Fürth W",
+    "+0.5 HT %": "15%",
+    "+1.5 FT %": "92%",
+    "+2.5 FT %": "79%",
+    "Ambas Marcam %": "74%",
+    "xG total": "4.20",
+    "casa": "24%",
+    "fora": "57%",
+    "Empate": "19%"
   },
   {
     "id": "s24m-19841479",
@@ -8977,7 +8865,7 @@
     "id": "s24m-19749327",
     "data": "2026-09-20",
     "horario": "13:00",
-    "Partida": "1860 München vs Nürnberg II",
+    "Partida": "1860 Münih vs Nürnberg II",
     "+0.5 HT %": "77%",
     "+1.5 FT %": "82%",
     "+2.5 FT %": "61%",
@@ -9002,20 +8890,6 @@
     "Empate": "22%"
   },
   {
-    "id": "s24m-19750658",
-    "data": "2026-09-20",
-    "horario": "14:00",
-    "Partida": "HSC Hannover vs Hamburger SV II",
-    "+0.5 HT %": "74%",
-    "+1.5 FT %": "88%",
-    "+2.5 FT %": "71%",
-    "Ambas Marcam %": "70%",
-    "xG total": "3.65",
-    "casa": "44%",
-    "fora": "34%",
-    "Empate": "22%"
-  },
-  {
     "id": "s24m-19750664",
     "data": "2026-09-20",
     "horario": "12:00",
@@ -9028,6 +8902,20 @@
     "casa": "48%",
     "fora": "33%",
     "Empate": "19%"
+  },
+  {
+    "id": "s24m-19750658",
+    "data": "2026-09-20",
+    "horario": "14:00",
+    "Partida": "HSC Hannover vs Hamburger SV II",
+    "+0.5 HT %": "74%",
+    "+1.5 FT %": "88%",
+    "+2.5 FT %": "71%",
+    "Ambas Marcam %": "70%",
+    "xG total": "3.65",
+    "casa": "44%",
+    "fora": "34%",
+    "Empate": "22%"
   },
   {
     "id": "s24m-19749717",
@@ -9114,20 +9002,6 @@
     "Empate": "20%"
   },
   {
-    "id": "s24m-19804726",
-    "data": "2026-09-20",
-    "horario": "12:00",
-    "Partida": "Passau vs Sturm Hauzenberg",
-    "+0.5 HT %": "42%",
-    "+1.5 FT %": "82%",
-    "+2.5 FT %": "61%",
-    "Ambas Marcam %": "55%",
-    "xG total": "3.15",
-    "casa": "66%",
-    "fora": "15%",
-    "Empate": "19%"
-  },
-  {
     "id": "s24m-19804720",
     "data": "2026-09-20",
     "horario": "13:30",
@@ -9140,6 +9014,20 @@
     "casa": "55%",
     "fora": "25%",
     "Empate": "20%"
+  },
+  {
+    "id": "s24m-19804726",
+    "data": "2026-09-20",
+    "horario": "12:00",
+    "Partida": "Passau vs Sturm Hauzenberg",
+    "+0.5 HT %": "42%",
+    "+1.5 FT %": "82%",
+    "+2.5 FT %": "61%",
+    "Ambas Marcam %": "55%",
+    "xG total": "3.15",
+    "casa": "66%",
+    "fora": "15%",
+    "Empate": "19%"
   },
   {
     "id": "s24m-19797662",
@@ -9212,20 +9100,6 @@
     "Empate": "20%"
   },
   {
-    "id": "s24m-19797042",
-    "data": "2026-09-20",
-    "horario": "10:30",
-    "Partida": "Schwabing München vs Murnau",
-    "+0.5 HT %": "15%",
-    "+1.5 FT %": "84%",
-    "+2.5 FT %": "63%",
-    "Ambas Marcam %": "58%",
-    "xG total": "3.25",
-    "casa": "17%",
-    "fora": "63%",
-    "Empate": "20%"
-  },
-  {
     "id": "s24m-19797041",
     "data": "2026-09-20",
     "horario": "12:30",
@@ -9238,6 +9112,20 @@
     "casa": "44%",
     "fora": "34%",
     "Empate": "22%"
+  },
+  {
+    "id": "s24m-19797042",
+    "data": "2026-09-20",
+    "horario": "10:30",
+    "Partida": "Schwabing München vs Murnau",
+    "+0.5 HT %": "15%",
+    "+1.5 FT %": "84%",
+    "+2.5 FT %": "63%",
+    "Ambas Marcam %": "58%",
+    "xG total": "3.25",
+    "casa": "17%",
+    "fora": "63%",
+    "Empate": "20%"
   },
   {
     "id": "s24m-19796739",
@@ -9338,20 +9226,6 @@
     "Empate": "22%"
   },
   {
-    "id": "s24m-19796186",
-    "data": "2026-09-20",
-    "horario": "12:00",
-    "Partida": "Halstenbek-Rellingen vs Osdorf",
-    "+0.5 HT %": "75%",
-    "+1.5 FT %": "92%",
-    "+2.5 FT %": "79%",
-    "Ambas Marcam %": "77%",
-    "xG total": "4.20",
-    "casa": "38%",
-    "fora": "42%",
-    "Empate": "20%"
-  },
-  {
     "id": "s24m-19796188",
     "data": "2026-09-20",
     "horario": "11:00",
@@ -9363,6 +9237,20 @@
     "xG total": "4.05",
     "casa": "37%",
     "fora": "43%",
+    "Empate": "20%"
+  },
+  {
+    "id": "s24m-19796186",
+    "data": "2026-09-20",
+    "horario": "12:00",
+    "Partida": "Halstenbek-Rellingen vs Osdorf",
+    "+0.5 HT %": "75%",
+    "+1.5 FT %": "92%",
+    "+2.5 FT %": "79%",
+    "Ambas Marcam %": "77%",
+    "xG total": "4.20",
+    "casa": "38%",
+    "fora": "42%",
     "Empate": "20%"
   },
   {
@@ -9464,18 +9352,18 @@
     "Empate": "18%"
   },
   {
-    "id": "s24m-19801453",
+    "id": "s24m-19801451",
     "data": "2026-09-20",
     "horario": "13:00",
-    "Partida": "Britannia Eichenzell vs Wabern",
-    "+0.5 HT %": "15%",
-    "+1.5 FT %": "90%",
-    "+2.5 FT %": "75%",
-    "Ambas Marcam %": "73%",
-    "xG total": "3.95",
-    "casa": "50%",
-    "fora": "29%",
-    "Empate": "21%"
+    "Partida": "Viktoria Bronnzell vs FSV Dörnberg",
+    "+0.5 HT %": "33%",
+    "+1.5 FT %": "83%",
+    "+2.5 FT %": "62%",
+    "Ambas Marcam %": "62%",
+    "xG total": "3.20",
+    "casa": "51%",
+    "fora": "26%",
+    "Empate": "23%"
   },
   {
     "id": "s24m-19801452",
@@ -9492,32 +9380,18 @@
     "Empate": "20%"
   },
   {
-    "id": "s24m-19801451",
+    "id": "s24m-19801453",
     "data": "2026-09-20",
     "horario": "13:00",
-    "Partida": "Viktoria Bronnzell vs FSV Dörnberg",
-    "+0.5 HT %": "33%",
-    "+1.5 FT %": "83%",
-    "+2.5 FT %": "62%",
-    "Ambas Marcam %": "62%",
-    "xG total": "3.20",
-    "casa": "51%",
-    "fora": "26%",
-    "Empate": "23%"
-  },
-  {
-    "id": "s24m-19803790",
-    "data": "2026-09-20",
-    "horario": "13:00",
-    "Partida": "Germania Ober-Roden vs Rot-Weiß Walldorf II",
-    "+0.5 HT %": "21%",
-    "+1.5 FT %": "84%",
-    "+2.5 FT %": "63%",
-    "Ambas Marcam %": "62%",
-    "xG total": "3.25",
-    "casa": "53%",
-    "fora": "25%",
-    "Empate": "22%"
+    "Partida": "Britannia Eichenzell vs Wabern",
+    "+0.5 HT %": "15%",
+    "+1.5 FT %": "90%",
+    "+2.5 FT %": "75%",
+    "Ambas Marcam %": "73%",
+    "xG total": "3.95",
+    "casa": "50%",
+    "fora": "29%",
+    "Empate": "21%"
   },
   {
     "id": "s24m-19801454",
@@ -9532,6 +9406,20 @@
     "casa": "31%",
     "fora": "44%",
     "Empate": "25%"
+  },
+  {
+    "id": "s24m-19803790",
+    "data": "2026-09-20",
+    "horario": "13:00",
+    "Partida": "Germania Ober-Roden vs Rot-Weiß Walldorf II",
+    "+0.5 HT %": "21%",
+    "+1.5 FT %": "84%",
+    "+2.5 FT %": "63%",
+    "Ambas Marcam %": "62%",
+    "xG total": "3.25",
+    "casa": "53%",
+    "fora": "25%",
+    "Empate": "22%"
   },
   {
     "id": "s24m-19803779",
@@ -9716,20 +9604,6 @@
     "Empate": "18%"
   },
   {
-    "id": "s24m-19796455",
-    "data": "2026-09-20",
-    "horario": "13:00",
-    "Partida": "Halberg Brebach vs Rot-Weiß Hasborn",
-    "+0.5 HT %": "15%",
-    "+1.5 FT %": "94%",
-    "+2.5 FT %": "83%",
-    "Ambas Marcam %": "79%",
-    "xG total": "4.50",
-    "casa": "51%",
-    "fora": "30%",
-    "Empate": "19%"
-  },
-  {
     "id": "s24m-19800260",
     "data": "2026-09-20",
     "horario": "13:00",
@@ -9742,6 +9616,20 @@
     "casa": "28%",
     "fora": "52%",
     "Empate": "20%"
+  },
+  {
+    "id": "s24m-19796455",
+    "data": "2026-09-20",
+    "horario": "13:00",
+    "Partida": "Halberg Brebach vs Rot-Weiß Hasborn",
+    "+0.5 HT %": "15%",
+    "+1.5 FT %": "94%",
+    "+2.5 FT %": "83%",
+    "Ambas Marcam %": "79%",
+    "xG total": "4.50",
+    "casa": "51%",
+    "fora": "30%",
+    "Empate": "19%"
   },
   {
     "id": "s24m-19796450",
@@ -9758,6 +9646,20 @@
     "Empate": "19%"
   },
   {
+    "id": "s24m-19796451",
+    "data": "2026-09-20",
+    "horario": "13:30",
+    "Partida": "Merchweiler vs Marpingen-Urexweiler",
+    "+0.5 HT %": "15%",
+    "+1.5 FT %": "93%",
+    "+2.5 FT %": "80%",
+    "Ambas Marcam %": "72%",
+    "xG total": "4.30",
+    "casa": "66%",
+    "fora": "17%",
+    "Empate": "17%"
+  },
+  {
     "id": "s24m-19796452",
     "data": "2026-09-20",
     "horario": "13:30",
@@ -9772,17 +9674,17 @@
     "Empate": "20%"
   },
   {
-    "id": "s24m-19796451",
+    "id": "s24m-19796447",
     "data": "2026-09-20",
-    "horario": "13:30",
-    "Partida": "Merchweiler vs Marpingen-Urexweiler",
+    "horario": "15:00",
+    "Partida": "Köllerbach vs Herrensohr",
     "+0.5 HT %": "15%",
-    "+1.5 FT %": "93%",
-    "+2.5 FT %": "80%",
-    "Ambas Marcam %": "72%",
-    "xG total": "4.30",
-    "casa": "66%",
-    "fora": "17%",
+    "+1.5 FT %": "98%",
+    "+2.5 FT %": "93%",
+    "Ambas Marcam %": "89%",
+    "xG total": "5.80",
+    "casa": "35%",
+    "fora": "48%",
     "Empate": "17%"
   },
   {
@@ -9800,18 +9702,18 @@
     "Empate": "22%"
   },
   {
-    "id": "s24m-19796447",
+    "id": "s24m-19803432",
     "data": "2026-09-20",
-    "horario": "15:00",
-    "Partida": "Köllerbach vs Herrensohr",
+    "horario": "12:00",
+    "Partida": "VfB IMO Merseburg vs Eintracht Emseloh",
     "+0.5 HT %": "15%",
-    "+1.5 FT %": "98%",
-    "+2.5 FT %": "93%",
-    "Ambas Marcam %": "89%",
-    "xG total": "5.80",
-    "casa": "35%",
+    "+1.5 FT %": "95%",
+    "+2.5 FT %": "85%",
+    "Ambas Marcam %": "81%",
+    "xG total": "4.70",
+    "casa": "34%",
     "fora": "48%",
-    "Empate": "17%"
+    "Empate": "18%"
   },
   {
     "id": "s24m-19799774",
@@ -9828,17 +9730,59 @@
     "Empate": "23%"
   },
   {
-    "id": "s24m-19803432",
+    "id": "s24m-19802845",
     "data": "2026-09-20",
     "horario": "12:00",
-    "Partida": "VfB IMO Merseburg vs Eintracht Emseloh",
-    "+0.5 HT %": "15%",
-    "+1.5 FT %": "95%",
-    "+2.5 FT %": "85%",
-    "Ambas Marcam %": "81%",
-    "xG total": "4.70",
-    "casa": "34%",
-    "fora": "48%",
+    "Partida": "Dörpum vs Husumer SV",
+    "+0.5 HT %": "16%",
+    "+1.5 FT %": "92%",
+    "+2.5 FT %": "79%",
+    "Ambas Marcam %": "72%",
+    "xG total": "4.20",
+    "casa": "65%",
+    "fora": "18%",
+    "Empate": "17%"
+  },
+  {
+    "id": "s24m-19801971",
+    "data": "2026-09-20",
+    "horario": "13:15",
+    "Partida": "TuS Hohenecken vs Baumholder",
+    "+0.5 HT %": "67%",
+    "+1.5 FT %": "97%",
+    "+2.5 FT %": "89%",
+    "Ambas Marcam %": "85%",
+    "xG total": "5.20",
+    "casa": "48%",
+    "fora": "34%",
     "Empate": "18%"
+  },
+  {
+    "id": "s24m-19803180",
+    "data": "2026-09-20",
+    "horario": "13:00",
+    "Partida": "Grün Weiß Mühlen vs Schüttorf",
+    "+0.5 HT %": "15%",
+    "+1.5 FT %": "94%",
+    "+2.5 FT %": "83%",
+    "Ambas Marcam %": "74%",
+    "xG total": "4.50",
+    "casa": "68%",
+    "fora": "17%",
+    "Empate": "15%"
+  },
+  {
+    "id": "s24m-19803186",
+    "data": "2026-09-20",
+    "horario": "13:00",
+    "Partida": "Papenburg vs VfL Oldenburg",
+    "+0.5 HT %": "15%",
+    "+1.5 FT %": "90%",
+    "+2.5 FT %": "74%",
+    "Ambas Marcam %": "73%",
+    "xG total": "3.85",
+    "casa": "33%",
+    "fora": "46%",
+    "Empate": "21%"
   }
 ]
